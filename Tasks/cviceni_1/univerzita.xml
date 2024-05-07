@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+    <faculties>
+        <dean></dean>
+        <senior_instructor></senior_instructor>
+        <departments>
+            <department></department>
+            <department></department>
+            <department></department>
+        </departments>
+    </faculties>
+    <students>
+        <student>
+            <fnumber id ='F22513'>
+                <Fname>Daniel</Fname>
+                <Lname>Riha</Lname>
+                <email>daniel.riha8906@seznam.cz</email>
+                <faculty>PRF</faculty>
+                <studyYear>2</studyYear>
+                <subjects>
+                    <completed_subjects>
+                        <subject></subject>
+                        <subject></subject>
+                        <subject></subject>
+                        <subject></subject>
+                    </completed_subjects>
+                    <currently_studying_subjects>
+                        <subject></subject>
+                        <subject></subject>
+                        <subject></subject>
+                        <subject></subject>
+                    </currently_studying_subjects>
+                </subjects>
+            </note>
+        </student>
+    </students>
+</university>

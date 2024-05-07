@@ -1,0 +1,24 @@
+<fakulta děkan='RNDr. Michal Varady, Ph. D.'>
+    <katedra zkratka_katedry='PRF' webové_stránky='https://prf.ujep.cz/cs/'>
+        <vedoucí>
+            <jméno>Jiri Skvor</jméno>
+            <telefon>+420 475 286 711</telefon>
+            <email>email</email>
+        </vedoucí>
+        <zaměstnanci>
+            <zaměstnanec>
+                <jméno>Pavel Beránek</jméno>
+                <telefon>+420 475 286 724</telefon>
+                <pozice>
+                    <odborný_asistent/>
+                </pozice>
+            </zaměstnanec>
+        </zaměstnanci>
+        <předměty>
+            <předmět zkratka='PCA' typ='kombinované'>
+                <název>Počítačová Architektura</název>
+                <popis>Popis počítačové Architektury</popis>
+            </předmět>
+        </předměty>
+    </katedra>
+</fakulta>

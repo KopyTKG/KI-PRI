@@ -1,0 +1,17 @@
+studenti {
+    display: table;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border: 6px solid black;
+}
+
+student
+{
+display: table-row
+}
+
+Fname, Lname, faculty, studyYear
+{
+display: table-cell;
+padding: 18px;
+}

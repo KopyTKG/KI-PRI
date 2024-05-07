@@ -1,0 +1,10 @@
+<!ELEMENT studenti (student+)>
+
+<!ELEMENT student (note+)>
+<!ELEMENT note (Fname, Lname, faculty, studyYear)>
+<!ATTLIST note id CDATA #REQUIRED>
+
+<!ELEMENT Fname (#PCDATA)>
+<!ELEMENT Lname (#PCDATA)>
+<!ELEMENT faculty (#PCDATA)>
+<!ELEMENT studyYear (#PCDATA)>

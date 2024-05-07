@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student ID="F00000">
+<Fname>Student</Fname>
+<Lname>NO1</Lname>
+<Faculty>PRF</Faculty>
+<Year>2</Year>
+<Major>Informační technologie</Major>
+<Email>temp@test.com</Email>
+</student>

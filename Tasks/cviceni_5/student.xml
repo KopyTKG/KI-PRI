@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="using_xslt.xsl"?>
+<studenti>
+<student>
+<note id ='F22513'></note>
+<Fname>Daniel</Fname>
+<Lname>Riha</Lname>
+<faculty>PRF</faculty>
+<studyYear>2</studyYear>
+</student>
+
+<student>
+<note id ='F22514'></note>
+<Fname>Alex</Fname>
+<Lname>SChonfy</Lname>
+<faculty>PRF</faculty>
+<studyYear>1</studyYear>
+</student>
+
+</studenti>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<!-- definice jednoduchých elementů-->
+<xs:element name="Fname" type="xs:string"/>
+<xs:element name="Lname" type="xs:string"/>
+<xs:element name="faculty" type="xs:string"/>
+<xs:element name="studyYear" type="xs:positiveInteger"/>
+
+<!-- definice atributů -->
+<xs:attribute name="id" type="xs:string"/>
+
+<!-- definice complex typů-->
+<xs:element name="studenti">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element ref="student" minOccurs="1" maxOccurs="unbounded"/>
+        <xs:sequence/>
+    <xs:complexType/>
+<xs:element/>
+
+<xs:element name="note">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element ref="Fname" minOccurs="1" maxOccurs="1"/>
+            <xs:element ref="Lname" minOccurs="1" maxOccurs="1"/>
+            <xs:element ref="faculty" minOccurs="1" maxOccurs="1"/>
+            <xs:element ref="studyYear" minOccurs="1" maxOccurs="1"/>
+        <xs:sequence>
+    <xs:complexType>
+<xs:element name="note">
+<xs:schema/>
