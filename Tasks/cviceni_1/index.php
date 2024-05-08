@@ -28,7 +28,7 @@
             </tr>
             <tr>
                 <td></td>
-                <td><input type="submit" type="Odeslat"></td>
+                <td><input type="submit" value="Odeslat"></td>
             </tr>
         </table>
     </form>
@@ -94,11 +94,11 @@
 
     // poslané soubory
     $xmlFile = @$_FILES['xml'];
-    $dtdFile = @$_FILES['dtd'];
+    $xsdFile = @$_FILES['dtd'];
 
     // Máme XML?
     if (@$xmlTmpName = $xmlFile['tmp_name']) {
-        $dtdTmpName = $dtdFile['tmp_name'];
+        $dtdTmpName = $xsdFile['tmp_name'];
         $isValid = validate($xmlTmpName, $dtdTmpName);
         if ($isValid)
             echo "Nahraný XML soubor je validní.";
