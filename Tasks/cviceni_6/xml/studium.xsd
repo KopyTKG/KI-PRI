@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Definition of simple types for course information -->
+  <xs:simpleType name="katedraType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="kodType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="nazevType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="vyucujiciType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="kredityType">
+    <xs:restriction base="xs:int"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="statusType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="zakonceniType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <!-- Complex type for each course -->
+  <xs:complexType name="predmetType">
+    <xs:sequence>
+      <xs:element name="nazev" type="nazevType"/>
+      <xs:element name="vyucujici" type="vyucujiciType"/>
+      <xs:element name="kredity" type="kredityType"/>
+      <xs:element name="status" type="statusType"/>
+      <xs:element name="zakonceni" type="zakonceniType"/>
+    </xs:sequence>
+    <xs:attribute name="katedra" type="katedraType" use="required"/>
+    <xs:attribute name="kod" type="kodType" use="required"/>
+  </xs:complexType>
+
+  <!-- Complex type for semester -->
+  <xs:complexType name="semestrType">
+    <xs:sequence>
+      <xs:element name="predmet" type="predmetType" minOccurs="1" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="nazev" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <!-- Complex type for academic year -->
+  <xs:complexType name="rocnikType">
+    <xs:sequence>
+      <xs:element name="semestr" type="semestrType" minOccurs="1" maxOccurs="2"/>
+    </xs:sequence>
+    <xs:attribute name="cislo" type="xs:int" use="required"/>
+  </xs:complexType>
+
+  <!-- Root element -->
+  <xs:element name="uni-studium">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="uni-rocnik" type="rocnikType" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
