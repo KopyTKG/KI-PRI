@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <script src="js/ajax.js"></script>
+    <script src="js/dom.js"></script>
+
+    <style>
+      body.dark {
+        background: lightgray;
+      }
+      table {
+	border-collapse: collapse;
+	width: 100%;
+      }
+      th, td {
+	border: 1px solid black;
+	padding: 8px;
+	text-align: left;
+      }
+      th {
+	background-color: #f2f2f2;
+      }
+
+      .selected {
+	background-color: #4CAF50;
+	color: white;
+      }
+
+    </style>
+  </head>
+
+  <body onload="loadXML('./xml/knihy.xml', processDOM)">
+    <div id="knihy">Knihy</div>
+  </body>
+</html>

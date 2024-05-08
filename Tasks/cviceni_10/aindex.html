@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      /* #hub {
+        fill: red;
+      } */
+    </style>
+
+    <script>
+      let addElem = (parent, tag) => {
+        let elem = document.createElementNS('http://www.w3.org/2000/svg', tag)
+        parent.append(elem)
+        return elem
+      }
+
+      function tickTock() {
+        let divTime = document.getElementById('time')
+        let clock = document.getElementById('clock')
+	
+	let hourHand = addElem(clock, 'line')
+	hourHand.setAttribute('x1', '0')
+	hourHand.setAttribute('y1', '-20')
+	hourHand.setAttribute('x2', '0')
+	hourHand.setAttribute('y2', '80')
+	 
+	let minuteHand = addElem(clock, 'line')
+	minuteHand.setAttribute('x1', '0')
+	minuteHand.setAttribute('y1', '-20')
+	minuteHand.setAttribute('x2', '0')
+	minuteHand.setAttribute('y2', '120')
+
+        let hand = addElem(clock, 'line')
+	hand.setAttribute('stroke', 'red')
+        hand.setAttribute('x1', '0')
+        hand.setAttribute('y1', '0')
+        hand.setAttribute('x2', '0')
+        hand.setAttribute('y2', '140')
+
+        let hub = addElem(clock, 'circle')
+        // hub.setAttribute('id', 'hub')
+        hub.setAttribute('r', '10')
+        hub.setAttribute('fill', 'cyan')
+
+        let tick = () => {
+          let now = new Date()
+          divTime.textContent = now.toLocaleTimeString()
+
+          let sec = now.getSeconds()
+	  let min = now.getMinutes()
+	  let hour = now.getHours()
+          hand.setAttribute('transform', `rotate(${sec * 6}, 0, 0)`)
+	  minuteHand.setAttribute('transform', `rotate(${min * 6}, 0, 0)`)
+	  hourHand.setAttribute('transform', `rotate(${hour * 30}, 0, 0)`)
+        }
+
+        tick()
+        setInterval(tick, 1000)
+      }
+    </script>
+  </head>
+
+  <body onload="tickTock()">
+    <svg width="300" height="300">
+      <g
+        id="clock"
+        transform="translate(150 150) rotate(180, 0, 0)"
+        stroke="black"
+        stroke-width="4"
+        stroke-linecap="round"
+      >
+        <circle r="140" fill="white" />
+      </g>
+    </svg>
+    <div id="time"></div>
+  </body>
+</html>
