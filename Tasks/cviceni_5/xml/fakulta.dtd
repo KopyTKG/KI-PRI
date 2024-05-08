@@ -1,0 +1,27 @@
+<!ELEMENT fakulty (fakulta+)>
+<!ELEMENT fakulta (katedra, Obor)>
+<!ATTLIST fakulta děkan CDATA #REQUIRED>
+
+<!ELEMENT katedra (vedoucí, zaměstnanci, předměty)>
+<!ATTLIST katedra zkratka_katedry CDATA #REQUIRED>
+
+<!ELEMENT vedoucí (jméno, telefon, email)>
+<!ELEMENT jméno (#PCDATA)>
+<!ELEMENT telefon (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+
+<!ELEMENT zaměstnanci (zaměstnanec+)>
+<!ELEMENT zaměstnanec (jméno, telefon, email, pozice)>
+<!ELEMENT pozice (#PCDATA)>
+
+<!ELEMENT předměty (předmět+)>
+<!ELEMENT předmět (název, popis)>
+<!ATTLIST předmět
+    zkratka CDATA #REQUIRED
+    typ CDATA #REQUIRED>
+
+<!ELEMENT název (#PCDATA)>
+<!ELEMENT popis (#PCDATA)>
+
+<!ELEMENT Obor (název)>
+

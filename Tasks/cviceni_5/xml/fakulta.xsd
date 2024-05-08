@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definition of complex types for each component -->
+
+    <!-- Faculty Type -->
+    <xs:complexType name="facultyType">
+        <xs:sequence>
+            <xs:element name="katedra" type="departmentType"/>
+            <xs:element name="Obor" type="fieldType"/>
+        </xs:sequence>
+        <xs:attribute name="děkan" type="xs:string" use="required"/>
+    </xs:complexType>
+
+    <!-- Department Type -->
+    <xs:complexType name="departmentType">
+        <xs:sequence>
+            <xs:element name="vedoucí" type="leaderType"/>
+            <xs:element name="zaměstnanci" type="employeesType"/>
+            <xs:element name="předměty" type="subjectsType"/>
+        </xs:sequence>
+        <xs:attribute name="zkratka_katedry" type="xs:string" use="required"/>
+    </xs:complexType>
+
+    <!-- Leader Type -->
+    <xs:complexType name="leaderType">
+        <xs:sequence>
+            <xs:element name="jméno" type="xs:string"/>
+            <xs:element name="telefon" type="xs:string"/>
+            <xs:element name="email" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Employees Type -->
+    <xs:complexType name="employeesType">
+        <xs:sequence>
+            <xs:element name="zaměstnanec" type="employeeType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Employee Type -->
+    <xs:complexType name="employeeType">
+        <xs:sequence>
+            <xs:element name="jméno" type="xs:string"/>
+            <xs:element name="telefon" type="xs:string"/>
+	    <xs:element name="email" type="xs:string"/>
+	    <xs:element name="pozice" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Subjects Type -->
+    <xs:complexType name="subjectsType">
+        <xs:sequence>
+            <xs:element name="předmět" type="subjectType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Subject Type -->
+    <xs:complexType name="subjectType">
+        <xs:sequence>
+            <xs:element name="název" type="xs:string"/>
+            <xs:element name="popis" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="zkratka" type="xs:string" use="required"/>
+        <xs:attribute name="typ" type="xs:string" use="required"/>
+    </xs:complexType>
+
+    <!-- Field Type -->
+    <xs:complexType name="fieldType">
+        <xs:sequence>
+            <xs:element name="název" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Root Element -->
+    <xs:element name="fakulty">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="fakulta" type="facultyType" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
