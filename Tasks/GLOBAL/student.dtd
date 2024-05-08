@@ -1,0 +1,10 @@
+<!ELEMENT studenti (student+)>
+<!ELEMENT student (Fname, Lname, Faculty, Major, Year, Email)>
+<!ATTLIST student ID CDATA #REQUIRED>
+
+<!ELEMENT Fname (#PCDATA)>
+<!ELEMENT Lname (#PCDATA)>
+<!ELEMENT Faculty (#PCDATA)>
+<!ELEMENT Major (#PCDATA)>
+<!ELEMENT Year (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>

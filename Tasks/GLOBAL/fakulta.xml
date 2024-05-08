@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fakulty>
+<fakulta děkan='RNDr. Michal Varady, Ph. D.'>
+    <katedra zkratka_katedry='PRF'>
+        <vedoucí>
+            <jméno>Jiri Skvor</jméno>
+            <telefon>+420 475 286 711</telefon>
+            <email>email</email>
+        </vedoucí>
+        <zaměstnanci>
+            <zaměstnanec>
+                <jméno>Pavel Beránek</jméno>
+		<telefon>+420 475 286 724</telefon>
+		<email>email</email>
+                <pozice>odborný asistent</pozice>
+            </zaměstnanec>
+        </zaměstnanci>
+        <předměty>
+            <předmět zkratka='PCA' typ='kombinované'>
+                <název>Počítačová Architektura</název>
+                <popis>Popis počítačové Architektury</popis>
+            </předmět>
+        </předměty>
+	</katedra>
+	<Obor>
+		<název>Informační technologie</název>
+	</Obor>
+    </fakulta>
+</fakulty>

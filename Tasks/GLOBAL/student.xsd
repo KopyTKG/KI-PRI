@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definition of simple types for each element -->
+    <xs:simpleType name="nameType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="facultyType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="majorType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="yearType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="emailType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <!-- Definition of the student type -->
+    <xs:complexType name="StudentType">
+        <xs:sequence>
+            <xs:element name="Fname" type="nameType"/>
+            <xs:element name="Lname" type="nameType"/>
+            <xs:element name="Faculty" type="facultyType"/>
+            <xs:element name="Major" type="majorType"/>
+            <xs:element name="Year" type="yearType"/>
+            <xs:element name="Email" type="emailType"/>
+        </xs:sequence>
+        <xs:attribute name="ID" type="xs:string" use="required"/>
+    </xs:complexType>
+
+    <xs:element name="studenti">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="student" type="StudentType" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
