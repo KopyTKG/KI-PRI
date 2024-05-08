@@ -1,0 +1,33 @@
+
+body {
+  font-family: sans-serif;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.box {
+  border: solid 5px black;
+  border-radius: 1rem;
+}
+
+.bg {
+  background-color: blue;
+}
+
+.size {
+  width: 100px;
+  height: 100px;
+}
+
+.highlight {
+  background-color: blueviolet;
+}
