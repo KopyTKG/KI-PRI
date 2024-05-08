@@ -1,0 +1,9 @@
+falkuty {
+  display: table;
+  background-color: palegoldenrod;
+  border: thin solid grey;
+}
+
+falkulta {
+  display: table-row;
+}
