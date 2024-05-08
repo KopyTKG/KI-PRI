@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<student ID="F00000">
-  <Fname>Student</Fname>
-  <Lname>NO1</Lname>
-  <Faculty>PRF</Faculty>
-  <Major>Informační technologie</Major>
-  <Year>2</Year>
-  <Email>temp@test.com</Email>
-</student>
+../GLOBAL/student.xml
