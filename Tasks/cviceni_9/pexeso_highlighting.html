@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="utf-8" />
+  <title>Pexeso</title>
+
+  <body>
+    <style>
+      td {
+        cursor: pointer;
+        width: 120px;
+        height: 120px;
+        border: thin solid gray;
+      }
+    </style>
+    <table>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
+    Count: <span>0</span>
+    <script>
+      let count = 0;
+      const table = document.querySelector("table");
+      const span = document.querySelector("span");
+      table.onclick= (e) => {
+        if (
+          e.target.tagName === "TD" &&
+          e.target.style.backgroundColor !== "red"
+        ) {
+          e.target.style.backgroundColor = "red";
+          count++;
+          span.textContent = count;
+        } else if (e.target.style.backgroundColor === "red") {
+          e.target.style.backgroundColor = "white";
+          count--;
+          span.textContent = count;
+        }
+      } ;
+    </script>
+  </body>
+</html>

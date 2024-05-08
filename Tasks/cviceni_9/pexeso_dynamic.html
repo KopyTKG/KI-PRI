@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Pexeso</title>
+  <style>
+    td {
+      cursor: pointer;
+      width: 120px;
+      height: 120px;
+      border: thin solid gray;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    Count: <span>0</span>
+  </div>
+
+  <script>
+    let count = 0;
+    const container = document.getElementById("container");
+    const span = container.querySelector("span");
+
+    // Tvorba table
+    const numRows = 3; // Pocet radku
+    const numCols = 3; // Pocet sloupcu
+
+    const table = document.createElement("table");
+    container.appendChild(table);
+
+    for (let i = 0; i < numRows; i++) {
+      const row = document.createElement("tr");
+      table.appendChild(row);
+
+      for (let j = 0; j < numCols; j++) {
+        const cell = document.createElement("td");
+        row.appendChild(cell);
+
+        // Bindovani chovani na dilky
+        cell.addEventListener("click", () => {
+          if (cell.style.display !== "none") {
+            cell.style.display = "none"; // Po kliknuti schovej dilek
+            count++;
+            span.textContent = count;
+          }
+        });
+      }
+    }
+  </script>
+</body>
+</html>
