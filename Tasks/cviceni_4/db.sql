@@ -67,8 +67,8 @@ CREATE TABLE `Obory` (
 CREATE TABLE `Predmety` (
   `id` int NOT NULL,
   `Katedra_id` int NOT NULL,
-  `Nazev` int NOT NULL,
-  `Zkratka` int NOT NULL
+  `Nazev` text NOT NULL,
+  `Zkratka` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 -- --------------------------------------------------------
