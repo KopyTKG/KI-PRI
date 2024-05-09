@@ -9,4 +9,5 @@ This is a project for my UNI subject KI/PRI. The goal of this project is to crea
 
 ## Impotant
 This whole repo is in one docker-compose with basic apache and mysql setup. You can run it with `docker-compose up` command.
-Project folder has its own docker-compose file, so you can run it separately with `docker-compose up` command.
+
+To run the project you need to start it with `./startup.sh` script. It will start build for supabase and then start the project itself.
