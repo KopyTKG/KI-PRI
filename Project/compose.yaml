@@ -1,0 +1,35 @@
+services:
+  # PHP + Apache
+  php-apache:
+    restart: unless-stopped
+    build:
+      dockerfile: Dockerfiles/PhpApache
+    volumes:
+      - ./www:/var/www
+    ports:
+      - 8001:80 # port 8000
+    depends_on:
+      - database
+
+  # database
+  database:
+    restart: unless-stopped
+    build:
+      dockerfile: Dockerfiles/Database
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: mixolog
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: heslo
+    ports:
+      - 9906:3306
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin  
+    ports:
+      - 8080:80                   
+    restart: unless-stopped
+    environment:
+      PMA_HOST: database
+    depends_on:
+      - database

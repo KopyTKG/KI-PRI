@@ -5,7 +5,8 @@ This is a project for my UNI subject KI/PRI. The goal of this project is to crea
 
 ## Project Structure
 - **Tasks** - Contains all tasks for this project
-- **Final Project** - Contains final project for this subject
+- **Project** - Contains final project for this subject
 
 ## Impotant
 This whole repo is in one docker-compose with basic apache and mysql setup. You can run it with `docker-compose up` command.
+Project folder has its own docker-compose file, so you can run it separately with `docker-compose up` command.
