@@ -8,15 +8,21 @@
 	     </main>
 	     <script>
 	     if (window.location.href.includes("c=")) {
-	     		var category = window.location.href.split("c=")[1];
+	     		let category = window.location.href.split("c=")[1].replace(/%20/g, " ");
+			console.log(category);
 	    	 	const el = document.getElementById(category);
-	     		classes = ["border", "border-white", "border-2"]
+	     		classes = ["border", "border-blue-400", "border-4"]
 	     		classes.forEach((c) => {
 	     			el.classList.add(c); 
 	     		})
 	     }
 	     function SetCategory(category) {
-			window.location.href = "index.php?c=" + category;
+	     		if(window.location.href.includes("c=")) {
+	     			const url = window.location.href.split("?")[0];
+	     			window.location.href = url + "?c=" + category;
+	     		}else {
+	     			window.location.href += "?c=" + category;
+	     		}
 	     }
 	     </script>
     </xsl:template>
