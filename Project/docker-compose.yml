@@ -1,0 +1,16 @@
+name: supabase
+version: "3.8"
+
+services:
+  apache:
+    container_name: movie-store
+    restart: unless-stopped
+    build: 
+      dockerfile: DockerFiles/apache
+    volumes:
+      - ./www:/var/www
+      - ./Store:/var/Movies
+      - ./php.ini:/usr/local/etc/php/php.ini
+    ports:
+      - 10000:80
+  

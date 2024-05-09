@@ -1,0 +1,24 @@
+FROM php:8-apache
+# Update system packages
+RUN apt update && apt upgrade -y
+
+# Install extension for XSL processor
+RUN apt install -y libxslt1-dev \
+    && docker-php-ext-install xsl
+
+# Install PostgreSQL extensions
+RUN apt install -y libpq-dev \
+    && docker-php-ext-configure pgsql --with-pgsql=/usr/local/pgsql \
+    && docker-php-ext-install pgsql pdo_pgsql
+
+# Install tools
+RUN apt install -y neovim git
+
+# Configure neovim
+RUN mkdir -p /root/.config/nvim \
+    && git clone https://github.com/KopyTKG/nvim.git /root/.config/nvim
+
+# Directory where Apache (user: www-data) can write
+RUN mkdir -p /var/Movies \
+    && chown www-data:www-data /var/Movies \
+    && chmod 755 /var/Movies

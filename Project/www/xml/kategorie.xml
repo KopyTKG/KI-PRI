@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+	<category>
+		<name>Adventure</name>
+		<background url='/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg'/>
+		<color>bg-red-600</color>
+	</category>
+	<category>
+		<name>Fantasy</name>
+		<background url='/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg'/>
+		<color>bg-lime-400</color>
+	</category>
+	<category>
+		<name>Animation</name>
+		<background url='/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg'/>
+		<color>bg-lime-600</color>
+	</category>
+	<category>
+		<name>Drama</name>
+		<background url='/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg'/>
+		<color>bg-teal-300</color>
+	</category>
+	<category>
+		<name>Horror</name>
+		<background url='/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg'/>
+		<color>bg-red-400</color>
+	</category>
+	<category>
+		<name>Action</name>
+		<background url='/izGX7npHEopDQvngYcxMJEfcFbj.jpg'/>
+		<color>bg-orange-600</color>
+	</category>
+	<category>
+		<name>Comedy</name>
+		<background url='/850chzYHYbT3IISl6Q7dbBuFP2B.jpg'/>
+		<color>bg-rose-400</color>
+	</category>
+	<category>
+		<name>History</name>
+		<background url='/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg'/>
+		<color>bg-purple-400</color>
+	</category>
+	<category>
+		<name>Thriller</name>
+		<background url='/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg'/>
+		<color>bg-purple-300</color>
+	</category>
+	<category>
+		<name>Crime</name>
+		<background url='/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg'/>
+		<color>bg-orange-300</color>
+	</category>
+	<category>
+		<name>Science Fiction</name>
+		<background url='/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg'/>
+		<color>bg-rose-600</color>
+	</category>
+	<category>
+		<name>Mystery</name>
+		<background url='/riYInlsq2kf1AWoGm80JQW5dLKp.jpg'/>
+		<color>bg-amber-600</color>
+	</category>
+	<category>
+		<name>Music</name>
+		<background url='/r97txZRmBb75SGsIAWqmplWJnO3.jpg'/>
+		<color>bg-teal-600</color>
+	</category>
+	<category>
+		<name>Romance</name>
+		<background url='/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg'/>
+		<color>bg-amber-300</color>
+	</category>
+	<category>
+		<name>Family</name>
+		<background url='/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg'/>
+		<color>bg-amber-400</color>
+	</category>
+	<category>
+		<name>War</name>
+		<background url='/i1U46OwMc6vlm7OoSUKfqUH615e.jpg'/>
+		<color>bg-rose-300</color>
+	</category>
+</categories>
