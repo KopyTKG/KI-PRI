@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="80274" imdb="tt1731141">
+    <title>Enders Game</title>
+    <release>2013</release>
+    <tagline>This is not a game.</tagline>
+    <description>Based on the classic novel by Orson Scott Card, Ender's Game is the story of the Earth's most gifted children training to defend their homeplanet in the space wars of the future.</description>
+    <rating>6.595</rating>
+    <poster>
+        <image url="/vrEpLNkv30qw7JiVyorgR6NOWDm.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/qGqlWb5izTPtFngBWdbJAEmninR.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Action</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

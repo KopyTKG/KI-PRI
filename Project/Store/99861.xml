@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="99861" imdb="tt2395427">
+    <title>Avengers Age of Ultron</title>
+    <release>2015</release>
+    <tagline>A new age has come.</tagline>
+    <description>When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.</description>
+    <rating>7.274</rating>
+    <poster>
+        <image url="/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg" />
+    </backdrop>
+    <categories>
+        <category>Science</category> 
+<category>Fiction</category> 
+<category>Adventure</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

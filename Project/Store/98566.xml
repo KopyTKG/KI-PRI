@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="98566" imdb="tt1291150">
+    <title>Teenage Mutant Ninja Turtles</title>
+    <release>2014</release>
+    <tagline>Mysterious. Dangerous. Reptilious. You've never seen heroes like this.</tagline>
+    <description>When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.</description>
+    <rating>5.903</rating>
+    <poster>
+        <image url="/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/eezsbzYPbYKjjh6E1XHDBNlLynh.jpg" />
+    </backdrop>
+    <categories>
+        <category>Science</category> 
+<category>Fiction</category> 
+<category>Comedy</category> 
+<category>Adventure</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

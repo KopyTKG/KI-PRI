@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="240832" imdb="tt2872732">
+    <title>Lucy</title>
+    <release>2014</release>
+    <tagline>The average person uses 10% of their brain capacity. Imagine what she could do with 100%.</tagline>
+    <description>A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.</description>
+    <rating>6.441</rating>
+    <poster>
+        <image url="/dhjyfcwEoW6jJ4Q7DpZTp6E58GA.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/ozVwXlfxqNsariipatGwa5px3Pm.jpg" />
+    </backdrop>
+    <categories>
+        <category>Science</category> 
+<category>Fiction</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

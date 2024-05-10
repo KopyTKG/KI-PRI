@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="198663" imdb="tt1790864">
+    <title>The Maze Runner</title>
+    <release>2014</release>
+    <tagline>Remember. Survive. Run.</tagline>
+    <description>Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.</description>
+    <rating>7.174</rating>
+    <poster>
+        <image url="/ode14q7WtDugFDp78fo9lCsmay9.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/vHJlbhsXrZ5yrO2KqCbGSIU6fRX.jpg" />
+    </backdrop>
+    <categories>
+        <category>Mystery</category> 
+<category>Action</category> 
+<category>Thriller</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

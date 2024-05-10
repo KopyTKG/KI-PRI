@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="297762" imdb="tt0451279">
+    <title>Wonder Woman</title>
+    <release>2017</release>
+    <tagline>Power. Grace. Wisdom. Wonder.</tagline>
+    <description>An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.</description>
+    <rating>7.236</rating>
+    <poster>
+        <image url="/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/6iUNJZymJBMXXriQyFZfLAKnjO6.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Adventure</category> 
+<category>Fantasy</category> 
+
+    </categories>
+</movie>
+

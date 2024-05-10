@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="157336" imdb="tt0816692">
+    <title>Interstellar</title>
+    <release>2014</release>
+    <tagline>Mankind was born on Earth. It was never meant to die here.</tagline>
+    <description>The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.</description>
+    <rating>8.42</rating>
+    <poster>
+        <image url="/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/xJHokMbljvjADYdit5fK5VQsXEG.jpg" />
+    </backdrop>
+    <categories>
+        <category>Drama</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

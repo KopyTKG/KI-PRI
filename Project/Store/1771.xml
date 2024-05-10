@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="1771" imdb="tt0458339">
+    <title>Captain America - The First Avenger</title>
+    <release>2011</release>
+    <tagline>When patriots become heroes</tagline>
+    <description>During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.</description>
+    <rating>6.995</rating>
+    <poster>
+        <image url="/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/4NWWpT0jiMUak8r6jfpvG4eBgFU.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Action</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

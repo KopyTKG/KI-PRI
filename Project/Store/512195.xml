@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="512195" imdb="tt7991608">
+    <title>Red Notice</title>
+    <release>2021</release>
+    <tagline>Pro and cons.</tagline>
+    <description>An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.</description>
+    <rating>6.794</rating>
+    <poster>
+        <image url="/lAXONuqg41NwUMuzMiFvicDET9Y.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/dK12GIdhGP6NPGFssK2Fh265jyr.jpg" />
+    </backdrop>
+    <categories>
+        <category>Comedy</category> 
+<category>Crime</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

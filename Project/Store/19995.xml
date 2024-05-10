@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="19995" imdb="tt0499549">
+    <title>Avatar</title>
+    <release>2009</release>
+    <tagline>Enter the world of Pandora.</tagline>
+    <description>In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.</description>
+    <rating>7.575</rating>
+    <poster>
+        <image url="/kyeqWdyUXW608qlYkRqosgbbJyK.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+<category>Fantasy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="58" imdb="tt0383574">
+    <title>Pirates of the Caribbean - Dead Mans Chest</title>
+    <release>2006</release>
+    <tagline>Captain Jack is back!</tagline>
+    <description>Captain Jack Sparrow works his way out of a blood debt with the ghostly Davy Jones to avoid eternal damnation.</description>
+    <rating>7.347</rating>
+    <poster>
+        <image url="/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/vv5a8u6e40kyH0Hp6HuamAgzRai.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Fantasy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

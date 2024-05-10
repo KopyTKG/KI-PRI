@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="675353" imdb="tt12412888">
+    <title>Sonic the Hedgehog 2</title>
+    <release>2022</release>
+    <tagline>Welcome to the next level.</tagline>
+    <description>After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.</description>
+    <rating>7.555</rating>
+    <poster>
+        <image url="/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/yEQqrW61rwNuVRHTjgHOAU4dXNE.jpg" />
+    </backdrop>
+    <categories>
+        <category>Family</category> 
+<category>Action</category> 
+<category>Adventure</category> 
+<category>Comedy</category> 
+
+    </categories>
+</movie>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="18" imdb="tt0119116">
+    <title>The Fifth Element</title>
+    <release>1997</release>
+    <tagline>There is no future without it.</tagline>
+    <description>In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.</description>
+    <rating>7.536</rating>
+    <poster>
+        <image url="/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/wgvc3PmjQGtYYDWaeuV867mnFDs.jpg" />
+    </backdrop>
+    <categories>
+        <category>Science</category> 
+<category>Fiction</category> 
+<category>Adventure</category> 
+<category>Fantasy</category> 
+<category>Action</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

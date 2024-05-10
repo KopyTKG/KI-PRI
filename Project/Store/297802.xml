@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="297802" imdb="tt1477834">
+    <title>Aquaman</title>
+    <release>2018</release>
+    <tagline>Home Is Calling</tagline>
+    <description>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.</description>
+    <rating>6.899</rating>
+    <poster>
+        <image url="/xLPffWMhMj1l50ND3KchMjYoKmE.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Fantasy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="464052" imdb="tt7126948">
+    <title>Wonder Woman 1984</title>
+    <release>2020</release>
+    <tagline>A new era of wonder begins.</tagline>
+    <description>A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.</description>
+    <rating>6.472</rating>
+    <poster>
+        <image url="/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/egg7KFi18TSQc1s24RMmR9i2zO6.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Fantasy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

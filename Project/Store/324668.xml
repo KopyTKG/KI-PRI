@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="324668" imdb="tt4196776">
+    <title>Jason Bourne</title>
+    <release>2016</release>
+    <tagline>You know his name</tagline>
+    <description>The most dangerous former operative of the CIA is drawn out of hiding to uncover hidden truths about his past.</description>
+    <rating>6.332</rating>
+    <poster>
+        <image url="/xA7N41glw17MBQtcWSm2eBlBRuG.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/7mHeyU0a538bgguOeF57I8ZroSk.jpg" />
+    </backdrop>
+    <categories>
+        <category>Drama</category> 
+<category>Thriller</category> 
+<category>Action</category> 
+<category>Mystery</category> 
+
+    </categories>
+</movie>
+

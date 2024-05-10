@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="190859" imdb="tt2179136">
+    <title>American Sniper</title>
+    <release>2014</release>
+    <tagline>The most lethal sniper in U.S. history.</tagline>
+    <description>U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.</description>
+    <rating>7.429</rating>
+    <poster>
+        <image url="/i1U46OwMc6vlm7OoSUKfqUH615e.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg" />
+    </backdrop>
+    <categories>
+        <category>War</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

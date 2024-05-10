@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="338970" imdb="tt1365519">
+    <title>Tomb Raider</title>
+    <release>2018</release>
+    <tagline>Her legend begins.</tagline>
+    <description>Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.</description>
+    <rating>6.354</rating>
+    <poster>
+        <image url="/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/bLJTjfbZ1c5zSNiAvGYs1Uc82ir.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Adventure</category> 
+<category>Fantasy</category> 
+
+    </categories>
+</movie>
+

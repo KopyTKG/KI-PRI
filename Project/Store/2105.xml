@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="2105" imdb="tt0163651">
+    <title>American Pie</title>
+    <release>1999</release>
+    <tagline>There's nothing like your first piece.</tagline>
+    <description>At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all "score" by their senior prom.</description>
+    <rating>6.574</rating>
+    <poster>
+        <image url="/5P68by2Thn8wHAziyWGEw2O7hco.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/7hQTANu5TAEe4jrTerYHszyTOpV.jpg" />
+    </backdrop>
+    <categories>
+        <category>Romance</category> 
+<category>Comedy</category> 
+
+    </categories>
+</movie>
+

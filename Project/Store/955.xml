@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="955" imdb="tt0120755">
+    <title>Mission Impossible II</title>
+    <release>2000</release>
+    <tagline>Expect the impossible again.</tagline>
+    <description>With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude.</description>
+    <rating>6.119</rating>
+    <poster>
+        <image url="/z5v00OmTG0fGm4tkgp2EaRSkweF.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg" />
+    </backdrop>
+    <categories>
+        <category>Thriller</category> 
+<category>Action</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

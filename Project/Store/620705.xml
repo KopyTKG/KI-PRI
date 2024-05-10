@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="620705" imdb="tt5264838">
+    <title>Crater</title>
+    <release>2023</release>
+    <tagline>Miles from Earth, their adventure begins.</tagline>
+    <description>After the death of his father, a boy growing up on a lunar mining colony takes a trip to explore a legendary crater, along with his four best friends, prior to being permanently relocated to another planet.</description>
+    <rating>6.727</rating>
+    <poster>
+        <image url="/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/4tMKRCS0w0rd86lBPFtfMYtdO3L.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+<category>Family</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="315837" imdb="tt1219827">
+    <title>Ghost In The Shell</title>
+    <release>2017</release>
+    <tagline>There's nothing sadder than a puppet without a ghost.</tagline>
+    <description>In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.</description>
+    <rating>6.065</rating>
+    <poster>
+        <image url="/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/dDVqfmCzSy3TKSmiS2pJ9QB5E3P.jpg" />
+    </backdrop>
+    <categories>
+        <category>Science</category> 
+<category>Fiction</category> 
+<category>Action</category> 
+<category>Drama</category> 
+
+    </categories>
+</movie>
+

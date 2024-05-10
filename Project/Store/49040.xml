@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="49040" imdb="tt1194173">
+    <title>The Bourne Legacy</title>
+    <release>2012</release>
+    <tagline>There Was Never Just One</tagline>
+    <description>New CIA operative Aaron Cross experiences life-or-death stakes that have been triggered by the previous actions of Jason Bourne.</description>
+    <rating>6.215</rating>
+    <poster>
+        <image url="/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/yV2ieH5a8cdGuDaljqIbcEA5h22.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

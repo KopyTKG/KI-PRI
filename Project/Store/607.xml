@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="607" imdb="tt0119654">
+    <title>Men In Black</title>
+    <release>1997</release>
+    <tagline>Protecting the Earth from the scum of the universe.</tagline>
+    <description>After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent Kay and new recruit Agent Jay find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.</description>
+    <rating>7.191</rating>
+    <poster>
+        <image url="/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/lrAz6ayKlVBpClucdgXBmVUP6HG.jpg" />
+    </backdrop>
+    <categories>
+        <category>Comedy</category> 
+<category>Action</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

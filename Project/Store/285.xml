@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="285" imdb="tt0449088">
+    <title>Pirates of the Caribbean - at Worlds End</title>
+    <release>2007</release>
+    <tagline>At the end of the world, the adventure begins.</tagline>
+    <description>Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.</description>
+    <rating>7.244</rating>
+    <poster>
+        <image url="/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/kPcHuPYqzkSo4bmPHtH82GaeEgX.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Fantasy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

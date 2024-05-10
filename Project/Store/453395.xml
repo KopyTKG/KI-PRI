@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="453395" imdb="tt9419884">
+    <title>Doctor Strange In The Multiverse Of Madness</title>
+    <release>2022</release>
+    <tagline>Enter a new dimension of Strange.</tagline>
+    <description>Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.</description>
+    <rating>7.344</rating>
+    <poster>
+        <image url="/fwBl3J2aEXru6mrr9Xg8O99Iz2K.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Fantasy</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

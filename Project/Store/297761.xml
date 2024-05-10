@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="297761" imdb="tt1386697">
+    <title>Suicide Squad</title>
+    <release>2016</release>
+    <tagline>Worst. Heroes. Ever.</tagline>
+    <description>From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.</description>
+    <rating>5.91</rating>
+    <poster>
+        <image url="/xFw9RXKZDvevAGocgBK0zteto4U.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/zC70x9wqPPtxU99HsoGsxQ8IhSw.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Fantasy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="283995" imdb="tt3896198">
+    <title>Guardians Of The Galaxy Vol. 2</title>
+    <release>2017</release>
+    <tagline>Obviously.</tagline>
+    <description>The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.</description>
+    <rating>7.622</rating>
+    <poster>
+        <image url="/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/aJn9XeesqsrSLKcHfHP4u5985hn.jpg" />
+    </backdrop>
+    <categories>
+        <category>Science</category> 
+<category>Fiction</category> 
+<category>Adventure</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

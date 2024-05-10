@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="512200" imdb="tt7975244">
+    <title>Jumanji: The Next Level</title>
+    <release>2019</release>
+    <tagline></tagline>
+    <description>As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.</description>
+    <rating>6.922</rating>
+    <poster>
+        <image url="/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg" />
+    </backdrop>
+    <categories>
+        <category>Fantasy</category> 
+<category>Comedy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

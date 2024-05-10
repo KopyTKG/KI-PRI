@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="168259" imdb="tt2820852">
+    <title>Furious 7</title>
+    <release>2015</release>
+    <tagline>Vengeance hits home</tagline>
+    <description>Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.</description>
+    <rating>7.236</rating>
+    <poster>
+        <image url="/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg" />
+    </backdrop>
+    <categories>
+        <category>Crime</category> 
+<category>Thriller</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

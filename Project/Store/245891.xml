@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="245891" imdb="tt2911666">
+    <title>John Wick</title>
+    <release>2014</release>
+    <tagline>Don't set him off.</tagline>
+    <description>Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.</description>
+    <rating>7.422</rating>
+    <poster>
+        <image url="/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

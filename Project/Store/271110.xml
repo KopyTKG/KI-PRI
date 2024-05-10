@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="271110" imdb="tt3498820">
+    <title>Captain America Civil War</title>
+    <release>2016</release>
+    <tagline>United we stand. Divided we fall.</tagline>
+    <description>Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.</description>
+    <rating>7.442</rating>
+    <poster>
+        <image url="/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Adventure</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

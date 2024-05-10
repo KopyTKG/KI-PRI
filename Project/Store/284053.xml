@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="284053" imdb="tt3501632">
+    <title>Thor Ragnarok</title>
+    <release>2017</release>
+    <tagline>No hammer. No problem.</tagline>
+    <description>Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.</description>
+    <rating>7.595</rating>
+    <poster>
+        <image url="/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Action</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

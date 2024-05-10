@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="1724" imdb="tt0800080">
+    <title>The Incredible Hulk</title>
+    <release>2008</release>
+    <tagline>You'll like him when he's angry.</tagline>
+    <description>Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.</description>
+    <rating>6.206</rating>
+    <poster>
+        <image url="/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Adventure</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

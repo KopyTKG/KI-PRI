@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="497582" imdb="tt7846844">
+    <title>Enola Holmes</title>
+    <release>2020</release>
+    <tagline>Mystery runs in the family.</tagline>
+    <description>While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.</description>
+    <rating>7.3</rating>
+    <poster>
+        <image url="/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/pQQggUuDMleFSl2tQYxzTmKIiLU.jpg" />
+    </backdrop>
+    <categories>
+        <category>Crime</category> 
+<category>Mystery</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

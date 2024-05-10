@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="524434" imdb="tt9032400">
+    <title>Eternals</title>
+    <release>2021</release>
+    <tagline>In the beginning...</tagline>
+    <description>The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.</description>
+    <rating>6.916</rating>
+    <poster>
+        <image url="/lFByFSLV5WDJEv3KabbdAF959F2.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Adventure</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

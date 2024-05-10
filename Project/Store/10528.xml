@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="10528" imdb="tt0988045">
+    <title>Sherlock Holmes</title>
+    <release>2009</release>
+    <tagline>Nothing escapes him.</tagline>
+    <description>Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.</description>
+    <rating>7.204</rating>
+    <poster>
+        <image url="/momkKuWburNTqKBF6ez7rvhYVhE.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Adventure</category> 
+<category>Crime</category> 
+<category>Mystery</category> 
+
+    </categories>
+</movie>
+

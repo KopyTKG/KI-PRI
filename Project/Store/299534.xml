@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="299534" imdb="tt4154796">
+    <title>Avengers Endgame</title>
+    <release>2019</release>
+    <tagline>Avenge the fallen.</tagline>
+    <description>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.</description>
+    <rating>8.261</rating>
+    <poster>
+        <image url="/or06FN3Dka5tukK1e9sl16pB3iy.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Adventure</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

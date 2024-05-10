@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="68735" imdb="tt0803096">
+    <title>Warcraft</title>
+    <release>2016</release>
+    <tagline>Two worlds. One home.</tagline>
+    <description>The peaceful realm of Azeroth stands on the brink of war as its civilization faces a fearsome race of invaders: orc warriors fleeing their dying home to colonize another. As a portal opens to connect the two worlds, one army faces destruction and the other faces extinction. From opposing sides, two heroes are set on a collision course that will decide the fate of their family, their people, and their home.</description>
+    <rating>6.366</rating>
+    <poster>
+        <image url="/nZIIOs06YigBnvmlJ2hxZeA8eTO.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/aTGvZ3F8QnAD8cPpJRaaqRRxFK6.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Fantasy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

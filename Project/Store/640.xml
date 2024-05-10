@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="640" imdb="tt0264464">
+    <title>Catch Me If You Can</title>
+    <release>2002</release>
+    <tagline>The true story of a real fake.</tagline>
+    <description>A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.</description>
+    <rating>7.976</rating>
+    <poster>
+        <image url="/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg" />
+    </backdrop>
+    <categories>
+        <category>Crime</category> 
+<category>Drama</category> 
+
+    </categories>
+</movie>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="4638" imdb="tt0425112">
+    <title>Hot Fuzz</title>
+    <release>2007</release>
+    <tagline>Big cops. Small town. Moderate violence.</tagline>
+    <description>As a former London constable, Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.</description>
+    <rating>7.554</rating>
+    <poster>
+        <image url="/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/e1rPzkIcBEJiAd3piGirt7qVux7.jpg" />
+    </backdrop>
+    <categories>
+        <category>Comedy</category> 
+<category>Action</category> 
+<category>Crime</category> 
+
+    </categories>
+</movie>
+

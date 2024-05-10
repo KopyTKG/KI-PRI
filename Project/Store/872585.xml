@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="872585" imdb="tt15398776">
+    <title>Oppenheimer</title>
+    <release>2023</release>
+    <tagline>The world forever changes.</tagline>
+    <description>The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.</description>
+    <rating>8.187</rating>
+    <poster>
+        <image url="/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg" />
+    </backdrop>
+    <categories>
+        <category>Drama</category> 
+<category>History</category> 
+
+    </categories>
+</movie>
+

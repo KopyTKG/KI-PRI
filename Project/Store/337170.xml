@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="337170" imdb="tt3532216">
+    <title>American Made</title>
+    <release>2017</release>
+    <tagline>It's not a felony if you're doing it for the good guys.</tagline>
+    <description>The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.</description>
+    <rating>6.9</rating>
+    <poster>
+        <image url="/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/thBankgTBZAM3YkdeeF7fuDvkcD.jpg" />
+    </backdrop>
+    <categories>
+        <category>Crime</category> 
+<category>Comedy</category> 
+<category>Drama</category> 
+
+    </categories>
+</movie>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="1927" imdb="tt0286716">
+    <title>Hulk</title>
+    <release>2003</release>
+    <tagline>What if everything you were forced to keep inside was suddenly set free?</tagline>
+    <description>Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.</description>
+    <rating>5.539</rating>
+    <poster>
+        <image url="/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/kYd1ZMWvG9K2Jeop3XWXcTpJ2dB.jpg" />
+    </backdrop>
+    <categories>
+        <category>Science</category> 
+<category>Fiction</category> 
+<category>Action</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

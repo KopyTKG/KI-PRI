@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="454983" imdb="tt3799232">
+    <title>The Kissing Booth</title>
+    <release>2018</release>
+    <tagline>She can tell her best friend anything, except this one thing</tagline>
+    <description>When teenager Elle's first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend.</description>
+    <rating>7.228</rating>
+    <poster>
+        <image url="/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/aqrDUkuzksLhOD8pbyBXLO0dz5t.jpg" />
+    </backdrop>
+    <categories>
+        <category>Comedy</category> 
+<category>Romance</category> 
+
+    </categories>
+</movie>
+

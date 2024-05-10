@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="106646" imdb="tt0993846">
+    <title>The Wolf of Wall Street</title>
+    <release>2013</release>
+    <tagline>Earn. Spend. Party.</tagline>
+    <description>A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.</description>
+    <rating>8.035</rating>
+    <poster>
+        <image url="/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/2P0toWq3feNvFAzf28j7vNc1IuZ.jpg" />
+    </backdrop>
+    <categories>
+        <category>Comedy</category> 
+<category>Drama</category> 
+<category>Crime</category> 
+
+    </categories>
+</movie>
+

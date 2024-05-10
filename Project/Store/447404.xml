@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="447404" imdb="tt5884052">
+    <title>Pokémon Detective Pikachu</title>
+    <release>2019</release>
+    <tagline>Partner Up!</tagline>
+    <description>In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.</description>
+    <rating>6.951</rating>
+    <poster>
+        <image url="/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/nDP33LmQwNsnPv29GQazz59HjJI.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Fantasy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

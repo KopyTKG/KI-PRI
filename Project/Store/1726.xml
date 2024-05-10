@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="1726" imdb="tt0371746">
+    <title>Iron Man</title>
+    <release>2008</release>
+    <tagline>Heroes aren't born. They're built.</tagline>
+    <description>After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.</description>
+    <rating>7.639</rating>
+    <poster>
+        <image url="/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/cyecB7godJ6kNHGONFjUyVN9OX5.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Action</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

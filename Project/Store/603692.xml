@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="603692" imdb="tt10366206">
+    <title>John Wick Chapter 4</title>
+    <release>2023</release>
+    <tagline>No way back, one way out.</tagline>
+    <description>With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.</description>
+    <rating>7.792</rating>
+    <poster>
+        <image url="/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/kBBMF7GWYXzdRSk5w4xwip7yk3U.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Crime</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

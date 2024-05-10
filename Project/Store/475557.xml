@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="475557" imdb="tt7286456">
+    <title>Joker</title>
+    <release>2019</release>
+    <tagline>Put on a happy face.</tagline>
+    <description>During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.</description>
+    <rating>8.166</rating>
+    <poster>
+        <image url="/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/r0kZNywAeN6Ar75rxDqLlTP5RiJ.jpg" />
+    </backdrop>
+    <categories>
+        <category>Crime</category> 
+<category>Thriller</category> 
+<category>Drama</category> 
+
+    </categories>
+</movie>
+

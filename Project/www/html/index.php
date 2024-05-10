@@ -11,7 +11,7 @@ require INC . '/xmlTools.php';
 
 	<div class="md:w-1/2 hidden my-auto md:flex flex-col justify-center items-center gap-10 ">
 		<div class="w-full h-screen bg-stone-800">
-			<?= xmlTransform(XML . "/filmy.xml", XML . '/display.xsl') ?>
+			<?= xmlTransform(MOVIES . "/index.xml", XML . '/display.xsl') ?>
 		</div>
 	</div>
 

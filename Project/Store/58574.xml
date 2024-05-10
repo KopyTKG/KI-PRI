@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="58574" imdb="tt1515091">
+    <title>Sherlock Holmes A Game Of Shadows</title>
+    <release>2011</release>
+    <tagline>The game is afoot.</tagline>
+    <description>There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes’ intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the  detective.</description>
+    <rating>7.132</rating>
+    <poster>
+        <image url="/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/lWNASscWXn32Asr9vkB1wq6cKvD.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Adventure</category> 
+<category>Crime</category> 
+<category>Mystery</category> 
+
+    </categories>
+</movie>
+

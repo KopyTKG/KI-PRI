@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="646389" imdb="tt5884796">
+    <title>Plane</title>
+    <release>2023</release>
+    <tagline>Survive together or die alone.</tagline>
+    <description>After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.</description>
+    <rating>6.99</rating>
+    <poster>
+        <image url="/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg" />
+    </backdrop>
+    <categories>
+        <category>Thriller</category> 
+<category>Action</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

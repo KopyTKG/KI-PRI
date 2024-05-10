@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="24428" imdb="tt0848228">
+    <title>The Avengers</title>
+    <release>2012</release>
+    <tagline>Some assembly required.</tagline>
+    <description>When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!</description>
+    <rating>7.711</rating>
+    <poster>
+        <image url="/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg" />
+    </backdrop>
+    <categories>
+        <category>Science</category> 
+<category>Fiction</category> 
+<category>Action</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

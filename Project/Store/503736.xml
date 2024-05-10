@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="503736" imdb="tt0993840">
+    <title>Army Of The Dead</title>
+    <release>2021</release>
+    <tagline>Survivors take all.</tagline>
+    <description>Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.</description>
+    <rating>6.242</rating>
+    <poster>
+        <image url="/z8CExJekGrEThbpMXAmCFvvgoJR.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/c0izdYdnTe4uMRifHgvTA85wPz0.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Crime</category> 
+<category>Drama</category> 
+<category>Horror</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

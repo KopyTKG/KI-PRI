@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="420817" imdb="tt6139732">
+    <title>Aladdin</title>
+    <release>2019</release>
+    <tagline>Choose Wisely.</tagline>
+    <description>A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.</description>
+    <rating>7.112</rating>
+    <poster>
+        <image url="/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/rVqY0Bo4Npf6EIONUROxjYAJfmD.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Family</category> 
+<category>Fantasy</category> 
+<category>Romance</category> 
+
+    </categories>
+</movie>
+

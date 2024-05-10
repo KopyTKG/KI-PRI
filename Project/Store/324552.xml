@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="324552" imdb="tt4425200">
+    <title>John Wick Chapter 2</title>
+    <release>2017</release>
+    <tagline>Never stab the devil in the back.</tagline>
+    <description>John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.</description>
+    <rating>7.324</rating>
+    <poster>
+        <image url="/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/r17jFHAemzcWPPtoO0UxjIX0xas.jpg" />
+    </backdrop>
+    <categories>
+        <category>Thriller</category> 
+<category>Action</category> 
+<category>Crime</category> 
+
+    </categories>
+</movie>
+

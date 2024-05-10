@@ -5,7 +5,7 @@ $category = urldecode($category); // Use urldecode to handle spaces and other UR
 
 // Load XML
 $xml = new DOMDocument();
-$xml->load(XML . '/filmy.xml');
+$xml->load(MOVIES . '/index.xml');
 
 // Load XSLT
 $xsl = new DOMDocument();

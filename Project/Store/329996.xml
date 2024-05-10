@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="329996" imdb="tt3861390">
+    <title>Dumbo</title>
+    <release>2019</release>
+    <tagline>Soar to new heights.</tagline>
+    <description>A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.</description>
+    <rating>6.635</rating>
+    <poster>
+        <image url="/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/5tFt6iuGnKapHl5tw0X0cKcnuVo.jpg" />
+    </backdrop>
+    <categories>
+        <category>Fantasy</category> 
+<category>Adventure</category> 
+<category>Family</category> 
+
+    </categories>
+</movie>
+

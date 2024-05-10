@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="2501" imdb="tt0258463">
+    <title>The Bourne Identity</title>
+    <release>2002</release>
+    <tagline>He was the perfect weapon until he became the target.</tagline>
+    <description>Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?</description>
+    <rating>7.466</rating>
+    <poster>
+        <image url="/aP8swke3gmowbkfZ6lmNidu0y9p.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/g1MFwTP8jQK5RM7Lz0ROZYkEZqI.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Drama</category> 
+<category>Thriller</category> 
+<category>Mystery</category> 
+
+    </categories>
+</movie>
+

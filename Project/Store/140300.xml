@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="140300" imdb="tt2267968">
+    <title>Kung Fu Panda 3</title>
+    <release>2016</release>
+    <tagline>Grab destiny by the rice dumplings.</tagline>
+    <description>Continuing his "legendary adventures of awesomeness", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.</description>
+    <rating>6.883</rating>
+    <poster>
+        <image url="/oajNi4Su39WAByHI6EONu8G8HYn.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/uT5G4fA7jKxlJNfwYPMm353f5AI.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Animation</category> 
+<category>Comedy</category> 
+<category>Family</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

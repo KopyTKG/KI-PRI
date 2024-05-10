@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="267860" imdb="tt3300542">
+    <title>London Has Fallen</title>
+    <release>2016</release>
+    <tagline>The world's leaders have assembled. So have their enemies.</tagline>
+    <description>In London for the Prime Minister's funeral, Mike Banning discovers a plot to assassinate all the attending world leaders.</description>
+    <rating>6.184</rating>
+    <poster>
+        <image url="/korY0GInEJThWEm23MRmErQ3GqT.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/gYQ30Jer6qMZSKxeDmcibueeq0T.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="980489" imdb="tt4495098">
+    <title>Gran Turismo</title>
+    <release>2023</release>
+    <tagline>From gamer to racer.</tagline>
+    <description>The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.</description>
+    <rating>7.987</rating>
+    <poster>
+        <image url="/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/r7DuyYJ0N3cD8bRKsR5Ygq2P7oa.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Drama</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

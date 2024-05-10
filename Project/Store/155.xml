@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="155" imdb="tt0468569">
+    <title>Batman The Dark Knight</title>
+    <release>2008</release>
+    <tagline>Welcome to a world without rules.</tagline>
+    <description>Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.</description>
+    <rating>8.513</rating>
+    <poster>
+        <image url="/qJ2tW6WMUDux911r6m7haRef0WH.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg" />
+    </backdrop>
+    <categories>
+        <category>Thriller</category> 
+<category>Drama</category> 
+<category>Action</category> 
+<category>Crime</category> 
+
+    </categories>
+</movie>
+

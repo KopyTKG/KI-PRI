@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="249070" imdb="tt2679042">
+    <title>Hitman - Agent 47</title>
+    <release>2015</release>
+    <tagline>Your Number is Up.</tagline>
+    <description>An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.</description>
+    <rating>5.834</rating>
+    <poster>
+        <image url="/52NXkgvzRYjRnqRPpqjpiwsIgRG.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/3gjYzFP2w2bx6srcZkfS667jnl0.jpg" />
+    </backdrop>
+    <categories>
+        <category>Crime</category> 
+<category>Thriller</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

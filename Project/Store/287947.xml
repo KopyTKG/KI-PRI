@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="287947" imdb="tt0448115">
+    <title>Shazam!</title>
+    <release>2019</release>
+    <tagline>Just say the word.</tagline>
+    <description>A boy is given the ability to become an adult superhero in times of need with a single magic word.</description>
+    <rating>7.029</rating>
+    <poster>
+        <image url="/xnopI5Xtky18MPhK40cZAGAOVeV.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg" />
+    </backdrop>
+    <categories>
+        <category>Comedy</category> 
+<category>Action</category> 
+<category>Fantasy</category> 
+
+    </categories>
+</movie>
+

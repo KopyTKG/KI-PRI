@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="666035" imdb="tt15791574">
+    <title>Wanted Man</title>
+    <release>2024</release>
+    <tagline>Some borders are better not crossed</tagline>
+    <description>Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.</description>
+    <rating>6.0</rating>
+    <poster>
+        <image url="/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/mTwzUIB7HGSj65shOPmVJdiKMsj.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

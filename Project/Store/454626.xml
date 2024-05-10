@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="454626" imdb="tt3794354">
+    <title>Sonic the Hedgehog</title>
+    <release>2020</release>
+    <tagline>A whole new speed of hero.</tagline>
+    <description>Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.</description>
+    <rating>7.34</rating>
+    <poster>
+        <image url="/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg" />
+    </backdrop>
+    <categories>
+        <category>Family</category> 
+<category>Comedy</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="559" imdb="tt0413300">
+    <title>Spider Man 3</title>
+    <release>2007</release>
+    <tagline>The battle within.</tagline>
+    <description>The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.</description>
+    <rating>6.402</rating>
+    <poster>
+        <image url="/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Fantasy</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

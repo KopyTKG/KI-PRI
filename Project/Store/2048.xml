@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="2048" imdb="tt0343818">
+    <title>I Robot</title>
+    <release>2004</release>
+    <tagline>Laws are made to be broken.</tagline>
+    <description>In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.</description>
+    <rating>6.939</rating>
+    <poster>
+        <image url="/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/lOXVbF2mBK0xUt8sLInF3TIk5YS.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

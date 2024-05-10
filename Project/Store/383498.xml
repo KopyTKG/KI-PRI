@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="383498" imdb="tt5463162">
+    <title>Deadpool 2</title>
+    <release>2018</release>
+    <tagline>Prepare for the Second Coming.</tagline>
+    <description>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.</description>
+    <rating>7.491</rating>
+    <poster>
+        <image url="/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Action</category> 
+<category>Comedy</category> 
+
+    </categories>
+</movie>
+

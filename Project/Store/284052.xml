@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="284052" imdb="tt1211837">
+    <title>Doctor Strange</title>
+    <release>2016</release>
+    <tagline>The impossibilities are endless.</tagline>
+    <description>After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.</description>
+    <rating>7.427</rating>
+    <poster>
+        <image url="/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/aL53oMdZKZRJRH8txH07DLuleF9.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Action</category> 
+<category>Fantasy</category> 
+
+    </categories>
+</movie>
+

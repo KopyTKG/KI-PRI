@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="365942" imdb="tt3922818">
+    <title>The Space Between Us</title>
+    <release>2017</release>
+    <tagline>What's your favorite thing about Earth?</tagline>
+    <description>A young man raised by scientists on Mars returns to Earth to find his father.</description>
+    <rating>7.071</rating>
+    <poster>
+        <image url="/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/1NqHduv9SsWuZ5dMUJQC5dADsqz.jpg" />
+    </backdrop>
+    <categories>
+        <category>Romance</category> 
+<category>Drama</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

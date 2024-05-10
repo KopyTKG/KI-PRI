@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="580489" imdb="tt7097896">
+    <title>Venom Let There Be Carnage</title>
+    <release>2021</release>
+    <tagline>The universe needs Venom.</tagline>
+    <description>After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.</description>
+    <rating>6.825</rating>
+    <poster>
+        <image url="/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg" />
+    </backdrop>
+    <categories>
+        <category>Science</category> 
+<category>Fiction</category> 
+<category>Adventure</category> 
+<category>Action</category> 
+
+    </categories>
+</movie>
+

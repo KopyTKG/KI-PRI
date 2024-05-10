@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="341013" imdb="tt2406566">
+    <title>Atomic Blonde</title>
+    <release>2017</release>
+    <tagline>Talents can be overrated.</tagline>
+    <description>An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.</description>
+    <rating>6.411</rating>
+    <poster>
+        <image url="/vCmMRNbDlCno6ra91ruXp5rtsUC.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/g3hni0i9iAQ13jDGOFWavJFlojc.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

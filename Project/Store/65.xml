@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="65" imdb="tt0298203">
+    <title>8 Mile</title>
+    <release>2002</release>
+    <tagline>Every Moment Is Another Chance</tagline>
+    <description>For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit's vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice - and earn a place in a world where rhymes rule, legends are born and every moment… is another chance.</description>
+    <rating>7.129</rating>
+    <poster>
+        <image url="/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/bfccQmQWNFQYRv4PHgCnjDu7PXn.jpg" />
+    </backdrop>
+    <categories>
+        <category>Music</category> 
+<category>Drama</category> 
+
+    </categories>
+</movie>
+

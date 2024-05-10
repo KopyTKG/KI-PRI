@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="10195" imdb="tt0800369">
+    <title>Thor</title>
+    <release>2011</release>
+    <tagline>Two worlds. One hero.</tagline>
+    <description>Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.</description>
+    <rating>6.767</rating>
+    <poster>
+        <image url="/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg" />
+    </backdrop>
+    <categories>
+        <category>Fantasy</category> 
+<category>Action</category> 
+<category>Adventure</category> 
+
+    </categories>
+</movie>
+

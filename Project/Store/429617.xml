@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="429617" imdb="tt6320628">
+    <title>Spider-Man Far From Home</title>
+    <release>2019</release>
+    <tagline>It’s time to step up.</tagline>
+    <description>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</description>
+    <rating>7.444</rating>
+    <poster>
+        <image url="/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Action</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

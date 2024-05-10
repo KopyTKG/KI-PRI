@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="882569" imdb="tt4873118">
+    <title>The Covenant</title>
+    <release>2023</release>
+    <tagline>A bond. A pledge. A commitment.</tagline>
+    <description>During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.</description>
+    <rating>7.81</rating>
+    <poster>
+        <image url="/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/eTvN54pd83TrSEOz6wbsXEJktCV.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>War</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

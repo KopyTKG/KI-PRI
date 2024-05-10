@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="1124" imdb="tt0482571">
+    <title>The Prestige</title>
+    <release>2006</release>
+    <tagline>Are You Watching Closely?</tagline>
+    <description>A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.</description>
+    <rating>8.205</rating>
+    <poster>
+        <image url="/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/xBDE2d6HM1aBKQRu4IT7SfPD9fs.jpg" />
+    </backdrop>
+    <categories>
+        <category>Mystery</category> 
+<category>Drama</category> 
+<category>Science</category> 
+<category>Fiction</category> 
+
+    </categories>
+</movie>
+

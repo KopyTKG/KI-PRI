@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="375588" imdb="tt4532826">
+    <title>Robin Hood</title>
+    <release>2018</release>
+    <tagline>The legend you know. The story you don’t.</tagline>
+    <description>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</description>
+    <rating>5.893</rating>
+    <poster>
+        <image url="/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/zSJT1sKGRKcmP4I9b8dIOuepw6I.jpg" />
+    </backdrop>
+    <categories>
+        <category>Adventure</category> 
+<category>Action</category> 
+<category>Thriller</category> 
+
+    </categories>
+</movie>
+

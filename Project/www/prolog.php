@@ -3,7 +3,7 @@
 define('INC', __DIR__ . '/include');
 define('XML', __DIR__ . '/xml');
 define('SERVE', __DIR__ . '/html/serve');
-define('MOVIES', '/var/movies');
+define('MOVIES', '/var/Movies');
 
 define('TITLE', 'PHP CRUD');
 

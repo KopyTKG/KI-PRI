@@ -2,7 +2,7 @@
 module.exports = {
   content: {
     relative: true,
-    files: ["./www/**/*.{php,xsl,html,js}"],
+    files: ["./www/**/*.{php,xsl,html,js}", "./www/xml/*.{php,xsl,html,js}"],
   },
   safelist: [
     "bg-red-600/70",

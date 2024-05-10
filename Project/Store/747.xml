@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="747" imdb="tt0365748">
+    <title>Shaun Of The Dead</title>
+    <release>2004</release>
+    <tagline>A romantic comedy. With zombies.</tagline>
+    <description>Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.</description>
+    <rating>7.54</rating>
+    <poster>
+        <image url="/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/mrdHbaCp3ysDrzUHle5eQlY9Vzu.jpg" />
+    </backdrop>
+    <categories>
+        <category>Horror</category> 
+<category>Comedy</category> 
+
+    </categories>
+</movie>
+

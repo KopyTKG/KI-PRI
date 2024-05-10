@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="744" imdb="tt0092099">
+    <title>Top Gun</title>
+    <release>1986</release>
+    <tagline>Up there with the best of the best.</tagline>
+    <description>For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.</description>
+    <rating>7.048</rating>
+    <poster>
+        <image url="/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/jILeJ60zPpIjjJHGSmIeY4eO30t.jpg" />
+    </backdrop>
+    <categories>
+        <category>Action</category> 
+<category>Adventure</category> 
+<category>Drama</category> 
+
+    </categories>
+</movie>
+
