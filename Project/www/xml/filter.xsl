@@ -15,15 +15,13 @@
     </xsl:template>
 
     <xsl:template match="movie">
-        <div class="w-52 h-72 bg-stone-800 rounded-lg">
-            <h2><xsl:value-of select="title"/></h2>
-            <p>Release Year: <xsl:value-of select="release"/></p>
-            <p>Categories: 
-                <xsl:for-each select="categories/category">
-                    <span><xsl:value-of select="."/> </span>
-                </xsl:for-each>
-            </p>
-        </div>
+        <div class="w-52 h-72 bg-stone-800 rounded-lg flex flex-col justify-between px-3 py-2">
+	<h2 class="w-full bg-black border-stone-600 border text-white rounded-xl text-center px-2 z-10"><xsl:value-of select="title"/></h2>
+	<description class="w-max border border-stone-600 bg-stone-800/80 rounded-xl px-2 z-10">
+            <p class="text-white text-xl font-bold"><xsl:value-of select="release"/></p>
+	</description>
+	<img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/{poster/image/@url}" alt="{title}" class="w-52 h-72 rounded-lg absolute -ml-3 -mt-2 "/>
+	</div>
     </xsl:template>
 
 </xsl:stylesheet>

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="./assets/tailwind.css">
     <script src="https://cdn.jsdelivr.net/npm/geist@1.3.0/dist/font.min.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
     <script src="./assets/ajax.js"></script>
     <title>
         <?= TITLE ?>

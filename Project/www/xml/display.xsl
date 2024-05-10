@@ -4,7 +4,7 @@
     <xsl:output method="html" indent="yes"/>
 
     <xsl:template match="/movies">
-	<main class="grid grid-cols-12 max-h-screen overflow-hidden gap-2">
+	<main class="grid 2xl:grid-cols-8 xl:grid-cols-6 md:grid-cols-4 max-h-screen overflow-hidden gap-2">
         	<xsl:apply-templates select="movie"/>
         </main>
     </xsl:template>
