@@ -10,4 +10,7 @@
         <?= TITLE ?>
     </title>
 </head>
-<body class="bg-black"> 
+<body class="bg-black max-w-screen max-h-screen min-h-screen min-w-screen overflow-x-hidden"> 
+<?= require INC . '/nav.php' ?>
+<main class="w-screen h-full">
+

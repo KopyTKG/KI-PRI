@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies>
 <movie id='18' imdb='tt0119116'>
-<title>The Fifth Element</title>
-<release>1997</release>
-<poster>
-<image url='/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg'/>
-</poster>
-<categories>
-<category>Science</category>
-<category>Fiction</category>
-<category>Adventure</category>
-<category>Fantasy</category>
-<category>Action</category>
-<category>Thriller</category>
-</categories>
+	<title>The Fifth Element</title>
+	<release>1997</release>
+	<poster>
+		<image url='/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg'/>
+	</poster>
+	<categories>
+		<category>Science</category>
+		<category>Fiction</category>
+		<category>Adventure</category>
+		<category>Fantasy</category>
+		<category>Action</category>
+		<category>Thriller</category>
+	</categories>
 </movie>
 <movie id='22' imdb='tt0325980'>
 <title>Pirates of the Caribbean - The Curse of the Black Pearl</title>
@@ -711,7 +711,7 @@
 </categories>
 </movie>
 <movie id='13804' imdb='tt1013752'>
-<title>Fast & Furious</title>
+<title>Fast &amp; Furious</title>
 <release>2009</release>
 <poster>
 <image url='/lUtVoRukW7WNtUySwd8hWlByBds.jpg'/>
@@ -1296,7 +1296,7 @@
 </categories>
 </movie>
 <movie id='82992' imdb='tt1905041'>
-<title>Fast & Furious 6</title>
+<title>Fast &amp; Furious 6</title>
 <release>2013</release>
 <poster>
 <image url='/thSmnRdrzPBBospIOJjLZBReqzo.jpg'/>
@@ -2569,7 +2569,7 @@
 </categories>
 </movie>
 <movie id='384018' imdb='tt6806448'>
-<title>Fast & Furious Presents Hobbs & Shaw</title>
+<title>Fast &amp; Furious Presents Hobbs &amp; Shaw</title>
 <release>2019</release>
 <poster>
 <image url='/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg'/>

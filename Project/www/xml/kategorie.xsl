@@ -11,7 +11,7 @@
 	     		let category = window.location.href.split("c=")[1].replace(/%20/g, " ");
 			console.log(category);
 	    	 	const el = document.getElementById(category);
-	     		classes = ["border", "border-blue-400", "border-4"]
+	     		classes = ["border", "border-blue-400", "border-4", "scale-110"]
 	     		classes.forEach((c) => {
 	     			el.classList.add(c); 
 	     		})
@@ -39,4 +39,4 @@
         </div>
     </xsl:template>
 
-</xsl:stylesheet>
+</xsl:stylesheet> 
