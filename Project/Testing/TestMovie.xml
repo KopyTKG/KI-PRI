@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie id="1" imdb="tt1">
+    <title>This is a valid test file</title>
+    <release>10000</release>
+    <tagline>----</tagline>
+    <description>====</description>
+    <rating>0</rating>
+    <poster>
+        <image url="/oQLYqeULrtakcRsDHR1nUiQSNIq.jpg" />
+    </poster>
+    <backdrop>
+        <image url="/1hJbE72WiRuWH11QPNiHsvt29xA.jpg" />
+    </backdrop>
+    <categories>
+        <category>TEST</category>
+    </categories>
+</movie>
+

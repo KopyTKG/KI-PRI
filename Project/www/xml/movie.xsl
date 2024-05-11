@@ -6,7 +6,7 @@
     <xsl:template match="movie">
     <div class="w-screen">
     <div class="flex lg:flex-row flex-col min-h-[45rem] w-full z-50 items-center justify-evenly gap-20">
-    <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/{poster/image/@url}" alt="{title}" class="rounded-lg h-[35rem]"/>
+    <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/{poster/image/@url}" alt="{title}" class="rounded-lg h-[35rem] border border-black shadow-2xl shadow-blue-500/40"/>
     <div class="lg:w-1/3 w-[90%] bg-stone-800/60 min-h-[30rem] border border-black border-2 rounded-lg flex flex-col justify-center  text-white">
     <h2 class="text-4xl font-bold text-center">
 	<xsl:value-of select="title"/>

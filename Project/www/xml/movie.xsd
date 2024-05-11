@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="movie">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="title" type="xs:string"/>
+                <xs:element name="release" type="xs:integer"/>
+                <xs:element name="tagline" type="xs:string"/>
+                <xs:element name="description" type="xs:string"/>
+                <xs:element name="rating" type="xs:decimal"/>
+                <xs:element name="poster">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="image" maxOccurs="4">
+                                <xs:complexType>
+                                    <xs:attribute name="url" type="xs:string" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="backdrop">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="image" maxOccurs="4">
+                                <xs:complexType>
+                                    <xs:attribute name="url" type="xs:string" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="categories">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="category" type="xs:string" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:integer" use="required"/>
+            <xs:attribute name="imdb" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

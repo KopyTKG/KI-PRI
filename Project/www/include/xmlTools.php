@@ -1,34 +1,5 @@
 <?php
 
-// seznam jmen XML souborů
-function xmlFileList($dir)
-{
-    $list = [];
-
-    foreach (glob("$dir/*.xml") as $filename)
-        $list[] = basename($filename, '.xml');
-
-    return $list;
-}
-
-// výpis chyb
-function xmlPrintErrors()
-{ ?>
-    <table>
-        <?php foreach (libxml_get_errors() as $error) { ?>
-            <tr>
-                <td>
-                    <?= $error->line ?>
-                </td>
-                <td>
-                    <?= $error->message ?>
-                </td>
-            </tr>
-        <?php } ?>
-    </table>
-    <?php
-}
-
 // validace XML pomocí XSD
 function xmlValidate($xmlPath, $xsdPath): bool
 {
@@ -37,13 +8,11 @@ function xmlValidate($xmlPath, $xsdPath): bool
     // proběhne kontrola well-formed
     libxml_use_internal_errors(true);
     $doc->loadXML(file_get_contents($xmlPath));
-    xmlPrintErrors();
     libxml_use_internal_errors(false);
 
     // validace
     libxml_use_internal_errors(true);
     $isValid = $doc->schemaValidate($xsdPath);
-    xmlPrintErrors();
     libxml_use_internal_errors(false);
 
     return $isValid;

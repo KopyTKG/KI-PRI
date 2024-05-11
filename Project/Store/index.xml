@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies>
-<movie id='18' imdb='tt0119116'>
+<movie id="18" imdb="tt0119116">
 	<title>The Fifth Element</title>
 	<release>1997</release>
 	<poster>
-		<image url='/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg'/>
+		<image url="/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg"/>
 	</poster>
 	<categories>
 		<category>Science</category>
@@ -15,11 +15,11 @@
 		<category>Thriller</category>
 	</categories>
 </movie>
-<movie id='22' imdb='tt0325980'>
+<movie id="22" imdb="tt0325980">
 <title>Pirates of the Caribbean - The Curse of the Black Pearl</title>
 <release>2003</release>
 <poster>
-<image url='/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg'/>
+<image url="/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -27,11 +27,11 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='58' imdb='tt0383574'>
+<movie id="58" imdb="tt0383574">
 <title>Pirates of the Caribbean - Dead Mans Chest</title>
 <release>2006</release>
 <poster>
-<image url='/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg'/>
+<image url="/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -39,22 +39,22 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='65' imdb='tt0298203'>
+<movie id="65" imdb="tt0298203">
 <title>8 Mile</title>
 <release>2002</release>
 <poster>
-<image url='/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg'/>
+<image url="/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg"/>
 </poster>
 <categories>
 <category>Music</category>
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='155' imdb='tt0468569'>
+<movie id="155" imdb="tt0468569">
 <title>Batman The Dark Knight</title>
 <release>2008</release>
 <poster>
-<image url='/qJ2tW6WMUDux911r6m7haRef0WH.jpg'/>
+<image url="/qJ2tW6WMUDux911r6m7haRef0WH.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -63,22 +63,22 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='217' imdb='tt0367882'>
+<movie id="217" imdb="tt0367882">
 <title>Indiana Jones And The Kingdom of the Crystal Skull</title>
 <release>2008</release>
 <poster>
-<image url='/56As6XEM1flWvprX4LgkPl8ii4K.jpg'/>
+<image url="/56As6XEM1flWvprX4LgkPl8ii4K.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='285' imdb='tt0449088'>
+<movie id="285" imdb="tt0449088">
 <title>Pirates of the Caribbean - at Worlds End</title>
 <release>2007</release>
 <poster>
-<image url='/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg'/>
+<image url="/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -86,22 +86,22 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='557' imdb='tt0145487'>
+<movie id="557" imdb="tt0145487">
 <title>Spider Man</title>
 <release>2002</release>
 <poster>
-<image url='/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg'/>
+<image url="/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='558' imdb='tt0316654'>
+<movie id="558" imdb="tt0316654">
 <title>Spider Man 2</title>
 <release>2004</release>
 <poster>
-<image url='/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg'/>
+<image url="/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -109,11 +109,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='559' imdb='tt0413300'>
+<movie id="559" imdb="tt0413300">
 <title>Spider Man 3</title>
 <release>2007</release>
 <poster>
-<image url='/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg'/>
+<image url="/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -121,11 +121,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='584' imdb='tt0322259'>
+<movie id="584" imdb="tt0322259">
 <title>2 Fast 2 Furious</title>
 <release>2003</release>
 <poster>
-<image url='/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg'/>
+<image url="/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -133,11 +133,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='607' imdb='tt0119654'>
+<movie id="607" imdb="tt0119654">
 <title>Men In Black</title>
 <release>1997</release>
 <poster>
-<image url='/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg'/>
+<image url="/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -147,11 +147,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='608' imdb='tt0120912'>
+<movie id="608" imdb="tt0120912">
 <title>Men In Black II</title>
 <release>2002</release>
 <poster>
-<image url='/enA22EPyzc2WQ1VVyY7zxresQQr.jpg'/>
+<image url="/enA22EPyzc2WQ1VVyY7zxresQQr.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -160,22 +160,22 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='640' imdb='tt0264464'>
+<movie id="640" imdb="tt0264464">
 <title>Catch Me If You Can</title>
 <release>2002</release>
 <poster>
-<image url='/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg'/>
+<image url="/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='744' imdb='tt0092099'>
+<movie id="744" imdb="tt0092099">
 <title>Top Gun</title>
 <release>1986</release>
 <poster>
-<image url='/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg'/>
+<image url="/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -183,22 +183,22 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='747' imdb='tt0365748'>
+<movie id="747" imdb="tt0365748">
 <title>Shaun Of The Dead</title>
 <release>2004</release>
 <poster>
-<image url='/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg'/>
+<image url="/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg"/>
 </poster>
 <categories>
 <category>Horror</category>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='954' imdb='tt0117060'>
+<movie id="954" imdb="tt0117060">
 <title>Mission Impossible</title>
 <release>1996</release>
 <poster>
-<image url='/fTXFoddxRGeM5cWQqECmUSl9Xx3.jpg'/>
+<image url="/fTXFoddxRGeM5cWQqECmUSl9Xx3.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -206,11 +206,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='955' imdb='tt0120755'>
+<movie id="955" imdb="tt0120755">
 <title>Mission Impossible II</title>
 <release>2000</release>
 <poster>
-<image url='/z5v00OmTG0fGm4tkgp2EaRSkweF.jpg'/>
+<image url="/z5v00OmTG0fGm4tkgp2EaRSkweF.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -218,11 +218,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='956' imdb='tt0317919'>
+<movie id="956" imdb="tt0317919">
 <title>Mission Impossible III</title>
 <release>2006</release>
 <poster>
-<image url='/8GuSh1itKJt71INpbA4c0HX7eY1.jpg'/>
+<image url="/8GuSh1itKJt71INpbA4c0HX7eY1.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -230,11 +230,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='1124' imdb='tt0482571'>
+<movie id="1124" imdb="tt0482571">
 <title>The Prestige</title>
 <release>2006</release>
 <poster>
-<image url='/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg'/>
+<image url="/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg"/>
 </poster>
 <categories>
 <category>Mystery</category>
@@ -243,11 +243,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='1265' imdb='tt0398808'>
+<movie id="1265" imdb="tt0398808">
 <title>Bridge to Terabithia</title>
 <release>2007</release>
 <poster>
-<image url='/3xFxGodKPMFLheS8rujFSmLfcq4.jpg'/>
+<image url="/3xFxGodKPMFLheS8rujFSmLfcq4.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -255,11 +255,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='1620' imdb='tt0465494'>
+<movie id="1620" imdb="tt0465494">
 <title>Hitman</title>
 <release>2007</release>
 <poster>
-<image url='/h69UJOOKlrHcvhl5H2LY74N61DQ.jpg'/>
+<image url="/h69UJOOKlrHcvhl5H2LY74N61DQ.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -267,11 +267,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='1724' imdb='tt0800080'>
+<movie id="1724" imdb="tt0800080">
 <title>The Incredible Hulk</title>
 <release>2008</release>
 <poster>
-<image url='/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg'/>
+<image url="/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -280,11 +280,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='1726' imdb='tt0371746'>
+<movie id="1726" imdb="tt0371746">
 <title>Iron Man</title>
 <release>2008</release>
 <poster>
-<image url='/78lPtwv72eTNqFW9COBYI0dWDJa.jpg'/>
+<image url="/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -293,11 +293,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='1771' imdb='tt0458339'>
+<movie id="1771" imdb="tt0458339">
 <title>Captain America - The First Avenger</title>
 <release>2011</release>
 <poster>
-<image url='/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg'/>
+<image url="/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -306,11 +306,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='1858' imdb='tt0418279'>
+<movie id="1858" imdb="tt0418279">
 <title>Transformers</title>
 <release>2007</release>
 <poster>
-<image url='/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg'/>
+<image url="/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -319,11 +319,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='1865' imdb='tt1298650'>
+<movie id="1865" imdb="tt1298650">
 <title>Pirates of the Caribbean - On Stranger Tides</title>
 <release>2011</release>
 <poster>
-<image url='/keGfSvCmYj7CvdRx36OdVrAEibE.jpg'/>
+<image url="/keGfSvCmYj7CvdRx36OdVrAEibE.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -331,11 +331,11 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='1927' imdb='tt0286716'>
+<movie id="1927" imdb="tt0286716">
 <title>Hulk</title>
 <release>2003</release>
 <poster>
-<image url='/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg'/>
+<image url="/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -344,11 +344,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='1930' imdb='tt0948470'>
+<movie id="1930" imdb="tt0948470">
 <title>The Amazing Spiderman</title>
 <release>2012</release>
 <poster>
-<image url='/BgcvtsVWLQfjHD6Dr3YYgeSLYk.jpg'/>
+<image url="/BgcvtsVWLQfjHD6Dr3YYgeSLYk.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -356,11 +356,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='2048' imdb='tt0343818'>
+<movie id="2048" imdb="tt0343818">
 <title>I Robot</title>
 <release>2004</release>
 <poster>
-<image url='/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg'/>
+<image url="/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -368,22 +368,22 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='2105' imdb='tt0163651'>
+<movie id="2105" imdb="tt0163651">
 <title>American Pie</title>
 <release>1999</release>
 <poster>
-<image url='/5P68by2Thn8wHAziyWGEw2O7hco.jpg'/>
+<image url="/5P68by2Thn8wHAziyWGEw2O7hco.jpg"/>
 </poster>
 <categories>
 <category>Romance</category>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='2501' imdb='tt0258463'>
+<movie id="2501" imdb="tt0258463">
 <title>The Bourne Identity</title>
 <release>2002</release>
 <poster>
-<image url='/aP8swke3gmowbkfZ6lmNidu0y9p.jpg'/>
+<image url="/aP8swke3gmowbkfZ6lmNidu0y9p.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -392,11 +392,11 @@
 <category>Mystery</category>
 </categories>
 </movie>
-<movie id='2502' imdb='tt0372183'>
+<movie id="2502" imdb="tt0372183">
 <title>The Bourne Supremacy</title>
 <release>2004</release>
 <poster>
-<image url='/7IYGiDrquvX3q7e9PV6Pejs6b2g.jpg'/>
+<image url="/7IYGiDrquvX3q7e9PV6Pejs6b2g.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -404,11 +404,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='2503' imdb='tt0440963'>
+<movie id="2503" imdb="tt0440963">
 <title>The Bourne Ultimatum</title>
 <release>2007</release>
 <poster>
-<image url='/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg'/>
+<image url="/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -417,22 +417,22 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='2770' imdb='tt0252866'>
+<movie id="2770" imdb="tt0252866">
 <title>American Pie 2</title>
 <release>2001</release>
 <poster>
-<image url='/854ZZxXdeabAs90mrV72NqShJqR.jpg'/>
+<image url="/854ZZxXdeabAs90mrV72NqShJqR.jpg"/>
 </poster>
 <categories>
 <category>Romance</category>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='4108' imdb='tt0293662'>
+<movie id="4108" imdb="tt0293662">
 <title>The Transporter</title>
 <release>2002</release>
 <poster>
-<image url='/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg'/>
+<image url="/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -440,11 +440,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='4638' imdb='tt0425112'>
+<movie id="4638" imdb="tt0425112">
 <title>Hot Fuzz</title>
 <release>2007</release>
 <poster>
-<image url='/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg'/>
+<image url="/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -452,11 +452,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='7451' imdb='tt0295701'>
+<movie id="7451" imdb="tt0295701">
 <title>xXx</title>
 <release>2002</release>
 <poster>
-<image url='/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg'/>
+<image url="/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -464,11 +464,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='7485' imdb='tt0822854'>
+<movie id="7485" imdb="tt0822854">
 <title>Shooter</title>
 <release>2007</release>
 <poster>
-<image url='/tyRP8JedrDkPPvH3JxKYsdP2esu.jpg'/>
+<image url="/tyRP8JedrDkPPvH3JxKYsdP2esu.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -478,52 +478,52 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='8273' imdb='tt0328828'>
+<movie id="8273" imdb="tt0328828">
 <title>American Wedding</title>
 <release>2003</release>
 <poster>
-<image url='/pCO3lJv2PzPkJty29APxCVSjyoE.jpg'/>
+<image url="/pCO3lJv2PzPkJty29APxCVSjyoE.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 <category>Romance</category>
 </categories>
 </movie>
-<movie id='8274' imdb='tt0436058'>
+<movie id="8274" imdb="tt0436058">
 <title>American Pie Presents Band Camp</title>
 <release>2005</release>
 <poster>
-<image url='/6BgKeWEGROpWwEWvpw7vwfTCr9C.jpg'/>
+<image url="/6BgKeWEGROpWwEWvpw7vwfTCr9C.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='8275' imdb='tt0808146'>
+<movie id="8275" imdb="tt0808146">
 <title>American Pie Presents The Naked Mile</title>
 <release>2006</release>
 <poster>
-<image url='/sreeL5kKj47oofEGVtDKTAcUDY6.jpg'/>
+<image url="/sreeL5kKj47oofEGVtDKTAcUDY6.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='8277' imdb='tt0974959'>
+<movie id="8277" imdb="tt0974959">
 <title>American Pie Presents Beta House</title>
 <release>2007</release>
 <poster>
-<image url='/j7eGbwVb9hTaRFWMlSa7C1OYp3T.jpg'/>
+<image url="/j7eGbwVb9hTaRFWMlSa7C1OYp3T.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='8373' imdb='tt1055369'>
+<movie id="8373" imdb="tt1055369">
 <title>Transformers: Revenge of The Fallen</title>
 <release>2009</release>
 <poster>
-<image url='/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg'/>
+<image url="/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -532,22 +532,22 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='8960' imdb='tt0448157'>
+<movie id="8960" imdb="tt0448157">
 <title>Hancock</title>
 <release>2008</release>
 <poster>
-<image url='/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg'/>
+<image url="/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='8961' imdb='tt0172156'>
+<movie id="8961" imdb="tt0172156">
 <title>Bad Boys II</title>
 <release>2003</release>
 <poster>
-<image url='/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg'/>
+<image url="/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -555,11 +555,11 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='9335' imdb='tt0388482'>
+<movie id="9335" imdb="tt0388482">
 <title>Transporter 2</title>
 <release>2005</release>
 <poster>
-<image url='/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg'/>
+<image url="/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -567,11 +567,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='9502' imdb='tt0441773'>
+<movie id="9502" imdb="tt0441773">
 <title>Kung Fu Panda</title>
 <release>2008</release>
 <poster>
-<image url='/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg'/>
+<image url="/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg"/>
 </poster>
 <categories>
 <category>Animation</category>
@@ -581,11 +581,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='9615' imdb='tt0463985'>
+<movie id="9615" imdb="tt0463985">
 <title>The Fast and the Furious Tokyo Drift</title>
 <release>2006</release>
 <poster>
-<image url='/46xqGOwHbh2TH2avWSw3SMXph4E.jpg'/>
+<image url="/46xqGOwHbh2TH2avWSw3SMXph4E.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -594,11 +594,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='9737' imdb='tt0112442'>
+<movie id="9737" imdb="tt0112442">
 <title>Bad Boys</title>
 <release>1995</release>
 <poster>
-<image url='/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg'/>
+<image url="/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -607,11 +607,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='9799' imdb='tt0232500'>
+<movie id="9799" imdb="tt0232500">
 <title>The Fast and the Furious</title>
 <release>2001</release>
 <poster>
-<image url='/gqY0ITBgT7A82poL9jv851qdnIb.jpg'/>
+<image url="/gqY0ITBgT7A82poL9jv851qdnIb.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -619,11 +619,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='10138' imdb='tt1228705'>
+<movie id="10138" imdb="tt1228705">
 <title>Iron Man 2</title>
 <release>2010</release>
 <poster>
-<image url='/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg'/>
+<image url="/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -632,11 +632,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='10191' imdb='tt0892769'>
+<movie id="10191" imdb="tt0892769">
 <title>How To Train Your Dragon</title>
 <release>2010</release>
 <poster>
-<image url='/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg'/>
+<image url="/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"/>
 </poster>
 <categories>
 <category>Animation</category>
@@ -645,11 +645,11 @@
 <category>Family</category>
 </categories>
 </movie>
-<movie id='10195' imdb='tt0800369'>
+<movie id="10195" imdb="tt0800369">
 <title>Thor</title>
 <release>2011</release>
 <poster>
-<image url='/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg'/>
+<image url="/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
@@ -657,11 +657,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='10483' imdb='tt0452608'>
+<movie id="10483" imdb="tt0452608">
 <title>Death Race</title>
 <release>2008</release>
 <poster>
-<image url='/5A79GeOb3uChQ0l0ZDjDyODKQp3.jpg'/>
+<image url="/5A79GeOb3uChQ0l0ZDjDyODKQp3.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -670,11 +670,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='10528' imdb='tt0988045'>
+<movie id="10528" imdb="tt0988045">
 <title>Sherlock Holmes</title>
 <release>2009</release>
 <poster>
-<image url='/momkKuWburNTqKBF6ez7rvhYVhE.jpg'/>
+<image url="/momkKuWburNTqKBF6ez7rvhYVhE.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -683,11 +683,11 @@
 <category>Mystery</category>
 </categories>
 </movie>
-<movie id='11679' imdb='tt0329774'>
+<movie id="11679" imdb="tt0329774">
 <title>xXx State of The Union</title>
 <release>2005</release>
 <poster>
-<image url='/MM1r8HQUn6VG0Njr8S6cmXHyvJ.jpg'/>
+<image url="/MM1r8HQUn6VG0Njr8S6cmXHyvJ.jpg"/>
 </poster>
 <categories>
 <category>Mystery</category>
@@ -697,11 +697,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='13387' imdb='tt1129442'>
+<movie id="13387" imdb="tt1129442">
 <title>Transporter 3</title>
 <release>2008</release>
 <poster>
-<image url='/o4w9VF3GRZuXe9NHHvZ07pJespl.jpg'/>
+<image url="/o4w9VF3GRZuXe9NHHvZ07pJespl.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -710,11 +710,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='13804' imdb='tt1013752'>
+<movie id="13804" imdb="tt1013752">
 <title>Fast &amp; Furious</title>
 <release>2009</release>
 <poster>
-<image url='/lUtVoRukW7WNtUySwd8hWlByBds.jpg'/>
+<image url="/lUtVoRukW7WNtUySwd8hWlByBds.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -723,11 +723,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='14160' imdb='tt1049413'>
+<movie id="14160" imdb="tt1049413">
 <title>Up</title>
 <release>2009</release>
 <poster>
-<image url='/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg'/>
+<image url="/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -736,43 +736,43 @@
 <category>Family</category>
 </categories>
 </movie>
-<movie id='15373' imdb='tt0430922'>
+<movie id="15373" imdb="tt0430922">
 <title>Role Models</title>
 <release>2008</release>
 <poster>
-<image url='/d5SatGKWi0VpO9QX0Z74zLh9i91.jpg'/>
+<image url="/d5SatGKWi0VpO9QX0Z74zLh9i91.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='19908' imdb='tt1156398'>
+<movie id="19908" imdb="tt1156398">
 <title>Zombieland</title>
 <release>2009</release>
 <poster>
-<image url='/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg'/>
+<image url="/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 <category>Horror</category>
 </categories>
 </movie>
-<movie id='19994' imdb='tt1131734'>
+<movie id="19994" imdb="tt1131734">
 <title>Jennifers Body</title>
 <release>2009</release>
 <poster>
-<image url='/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg'/>
+<image url="/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 <category>Horror</category>
 </categories>
 </movie>
-<movie id='19995' imdb='tt0499549'>
+<movie id="19995" imdb="tt0499549">
 <title>Avatar</title>
 <release>2009</release>
 <poster>
-<image url='/kyeqWdyUXW608qlYkRqosgbbJyK.jpg'/>
+<image url="/kyeqWdyUXW608qlYkRqosgbbJyK.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -782,11 +782,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='20526' imdb='tt1104001'>
+<movie id="20526" imdb="tt1104001">
 <title>TRON Legacy</title>
 <release>2010</release>
 <poster>
-<image url='/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg'/>
+<image url="/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -795,11 +795,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='23168' imdb='tt0840361'>
+<movie id="23168" imdb="tt0840361">
 <title>The Town</title>
 <release>2010</release>
 <poster>
-<image url='/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg'/>
+<image url="/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -807,11 +807,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='24428' imdb='tt0848228'>
+<movie id="24428" imdb="tt0848228">
 <title>The Avengers</title>
 <release>2012</release>
 <poster>
-<image url='/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg'/>
+<image url="/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -820,21 +820,21 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='26123' imdb='tt1407050'>
+<movie id="26123" imdb="tt1407050">
 <title>American Pie Presents The Book of Love</title>
 <release>2009</release>
 <poster>
-<image url='/hwP0GEP0zy8ar965Xaht19SmMd3.jpg'/>
+<image url="/hwP0GEP0zy8ar965Xaht19SmMd3.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='27205' imdb='tt1375666'>
+<movie id="27205" imdb="tt1375666">
 <title>Inception</title>
 <release>2010</release>
 <poster>
-<image url='/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg'/>
+<image url="/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -843,11 +843,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='27578' imdb='tt1320253'>
+<movie id="27578" imdb="tt1320253">
 <title>The Expendables</title>
 <release>2010</release>
 <poster>
-<image url='/j09ZkH6R4JWVylBcDai1laCmGw7.jpg'/>
+<image url="/j09ZkH6R4JWVylBcDai1laCmGw7.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -855,11 +855,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='27582' imdb='tt0472399'>
+<movie id="27582" imdb="tt0472399">
 <title>The Mechanic</title>
 <release>2011</release>
 <poster>
-<image url='/k37axEHszFP9WOVvbozxF0r7X7g.jpg'/>
+<image url="/k37axEHszFP9WOVvbozxF0r7X7g.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -867,11 +867,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='38356' imdb='tt1399103'>
+<movie id="38356" imdb="tt1399103">
 <title>Transformers: Dark of the Moon</title>
 <release>2011</release>
 <poster>
-<image url='/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg'/>
+<image url="/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -880,11 +880,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='38700' imdb='tt1502397'>
+<movie id="38700" imdb="tt1502397">
 <title>Bad Boys For Life</title>
 <release>2020</release>
 <poster>
-<image url='/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg'/>
+<image url="/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -892,11 +892,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='39254' imdb='tt0433035'>
+<movie id="39254" imdb="tt0433035">
 <title>Real Steel</title>
 <release>2011</release>
 <poster>
-<image url='/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg'/>
+<image url="/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -905,11 +905,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='41154' imdb='tt1409024'>
+<movie id="41154" imdb="tt1409024">
 <title>Men in Black 3</title>
 <release>2012</release>
 <poster>
-<image url='/90DdoEStzeObs96fsYf4GG544iN.jpg'/>
+<image url="/90DdoEStzeObs96fsYf4GG544iN.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -918,11 +918,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='44943' imdb='tt1217613'>
+<movie id="44943" imdb="tt1217613">
 <title>Battle Los Angeles</title>
 <release>2011</release>
 <poster>
-<image url='/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg'/>
+<image url="/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -930,11 +930,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='45612' imdb='tt0945513'>
+<movie id="45612" imdb="tt0945513">
 <title>Source Code</title>
 <release>2011</release>
 <poster>
-<image url='/faCR2lavXBKeCS6N7STIMDLMCDL.jpg'/>
+<image url="/faCR2lavXBKeCS6N7STIMDLMCDL.jpg"/>
 </poster>
 <categories>
 <category>Mystery</category>
@@ -943,11 +943,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='47971' imdb='tt1293847'>
+<movie id="47971" imdb="tt1293847">
 <title>XXx Return Of Xander Cage</title>
 <release>2017</release>
 <poster>
-<image url='/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg'/>
+<image url="/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -955,22 +955,22 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='49040' imdb='tt1194173'>
+<movie id="49040" imdb="tt1194173">
 <title>The Bourne Legacy</title>
 <release>2012</release>
 <poster>
-<image url='/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg'/>
+<image url="/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='49444' imdb='tt1302011'>
+<movie id="49444" imdb="tt1302011">
 <title>Kung Fu Panda 2</title>
 <release>2011</release>
 <poster>
-<image url='/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg'/>
+<image url="/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -978,11 +978,11 @@
 <category>Family</category>
 </categories>
 </movie>
-<movie id='49521' imdb='tt0770828'>
+<movie id="49521" imdb="tt0770828">
 <title>Man of Steel</title>
 <release>2013</release>
 <poster>
-<image url='/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg'/>
+<image url="/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -991,11 +991,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='49524' imdb='tt0790736'>
+<movie id="49524" imdb="tt0790736">
 <title>R.I.P.D.</title>
 <release>2013</release>
 <poster>
-<image url='/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg'/>
+<image url="/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1003,11 +1003,11 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='49529' imdb='tt0401729'>
+<movie id="49529" imdb="tt0401729">
 <title>John Carter</title>
 <release>2012</release>
 <poster>
-<image url='/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg'/>
+<image url="/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1016,11 +1016,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='51497' imdb='tt1596343'>
+<movie id="51497" imdb="tt1596343">
 <title>Fast Five</title>
 <release>2011</release>
 <poster>
-<image url='/c5rgA1EYwMmxsQdyvLkQ8LD5Qun.jpg'/>
+<image url="/c5rgA1EYwMmxsQdyvLkQ8LD5Qun.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -1028,11 +1028,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='51620' imdb='tt1500491'>
+<movie id="51620" imdb="tt1500491">
 <title>Death Race 2</title>
 <release>2010</release>
 <poster>
-<image url='/80mBFNVvak2bA9TJN1MD0yM7Lfi.jpg'/>
+<image url="/80mBFNVvak2bA9TJN1MD0yM7Lfi.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1041,11 +1041,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='54445' imdb='tt1621429'>
+<movie id="54445" imdb="tt1621429">
 <title>S.W.A.T. Firefight</title>
 <release>2011</release>
 <poster>
-<image url='/hDeBVLKDeyavwHRPy8z5yBynNj4.jpg'/>
+<image url="/hDeBVLKDeyavwHRPy8z5yBynNj4.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -1053,11 +1053,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='56292' imdb='tt1229238'>
+<movie id="56292" imdb="tt1229238">
 <title>Mission Impossible Ghost Protocol</title>
 <release>2011</release>
 <poster>
-<image url='/34DCuAen3yrUofrUGR5bPMmnpYP.jpg'/>
+<image url="/34DCuAen3yrUofrUGR5bPMmnpYP.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1065,11 +1065,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='58574' imdb='tt1515091'>
+<movie id="58574" imdb="tt1515091">
 <title>Sherlock Holmes A Game Of Shadows</title>
 <release>2011</release>
 <poster>
-<image url='/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg'/>
+<image url="/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1078,11 +1078,11 @@
 <category>Mystery</category>
 </categories>
 </movie>
-<movie id='64688' imdb='tt1232829'>
+<movie id="64688" imdb="tt1232829">
 <title>21 Jump Street</title>
 <release>2012</release>
 <poster>
-<image url='/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg'/>
+<image url="/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1090,11 +1090,11 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='68721' imdb='tt1300854'>
+<movie id="68721" imdb="tt1300854">
 <title>Iron Man 3</title>
 <release>2013</release>
 <poster>
-<image url='/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg'/>
+<image url="/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1103,11 +1103,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='68724' imdb='tt1535108'>
+<movie id="68724" imdb="tt1535108">
 <title>Elysium</title>
 <release>2013</release>
 <poster>
-<image url='/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg'/>
+<image url="/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -1117,11 +1117,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='68726' imdb='tt1663662'>
+<movie id="68726" imdb="tt1663662">
 <title>Pacific Rim</title>
 <release>2013</release>
 <poster>
-<image url='/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg'/>
+<image url="/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1130,11 +1130,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='68735' imdb='tt0803096'>
+<movie id="68735" imdb="tt0803096">
 <title>Warcraft</title>
 <release>2016</release>
 <poster>
-<image url='/nZIIOs06YigBnvmlJ2hxZeA8eTO.jpg'/>
+<image url="/nZIIOs06YigBnvmlJ2hxZeA8eTO.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1142,11 +1142,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='70160' imdb='tt1392170'>
+<movie id="70160" imdb="tt1392170">
 <title>The Hunger Games</title>
 <release>2012</release>
 <poster>
-<image url='/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg'/>
+<image url="/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1155,11 +1155,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='70981' imdb='tt1446714'>
+<movie id="70981" imdb="tt1446714">
 <title>Prometheus</title>
 <release>2012</release>
 <poster>
-<image url='/m7nZCtHJyDLncBUarfM5h5mrppx.jpg'/>
+<image url="/m7nZCtHJyDLncBUarfM5h5mrppx.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1168,21 +1168,21 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='71552' imdb='tt1605630'>
+<movie id="71552" imdb="tt1605630">
 <title>American Pie - Reunion</title>
 <release>2012</release>
 <poster>
-<image url='/de5QBIdVR4dnkBZ4a0zjkS4lTg.jpg'/>
+<image url="/de5QBIdVR4dnkBZ4a0zjkS4lTg.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='72190' imdb='tt0816711'>
+<movie id="72190" imdb="tt0816711">
 <title>World War Z</title>
 <release>2013</release>
 <poster>
-<image url='/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg'/>
+<image url="/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg"/>
 </poster>
 <categories>
 <category>Horror</category>
@@ -1193,22 +1193,22 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='75656' imdb='tt1670345'>
+<movie id="75656" imdb="tt1670345">
 <title>Now You See Me</title>
 <release>2013</release>
 <poster>
-<image url='/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg'/>
+<image url="/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='75780' imdb='tt0790724'>
+<movie id="75780" imdb="tt0790724">
 <title>Jack Reacher</title>
 <release>2012</release>
 <poster>
-<image url='/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg'/>
+<image url="/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1217,11 +1217,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='76163' imdb='tt1764651'>
+<movie id="76163" imdb="tt1764651">
 <title>The Expendables 2</title>
 <release>2012</release>
 <poster>
-<image url='/4EBO8aIeP2bF1jGpwbuRS4CFMca.jpg'/>
+<image url="/4EBO8aIeP2bF1jGpwbuRS4CFMca.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1229,11 +1229,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='76338' imdb='tt1981115'>
+<movie id="76338" imdb="tt1981115">
 <title>Thor The Dark World</title>
 <release>2013</release>
 <poster>
-<image url='/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg'/>
+<image url="/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1241,11 +1241,11 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='76600' imdb='tt1630029'>
+<movie id="76600" imdb="tt1630029">
 <title>Avatar The Way Of Water</title>
 <release>2022</release>
 <poster>
-<image url='/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg'/>
+<image url="/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1254,11 +1254,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='76757' imdb='tt1617661'>
+<movie id="76757" imdb="tt1617661">
 <title>Jupiter Ascending</title>
 <release>2015</release>
 <poster>
-<image url='/xzQ25m9vrdyvpLX74T3B3KB40Ou.jpg'/>
+<image url="/xzQ25m9vrdyvpLX74T3B3KB40Ou.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
@@ -1267,11 +1267,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='80274' imdb='tt1731141'>
+<movie id="80274" imdb="tt1731141">
 <title>Enders Game</title>
 <release>2013</release>
 <poster>
-<image url='/vrEpLNkv30qw7JiVyorgR6NOWDm.jpg'/>
+<image url="/vrEpLNkv30qw7JiVyorgR6NOWDm.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1280,11 +1280,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='82702' imdb='tt1646971'>
+<movie id="82702" imdb="tt1646971">
 <title>How To Train Your Dragon 2</title>
 <release>2014</release>
 <poster>
-<image url='/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg'/>
+<image url="/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
@@ -1295,11 +1295,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='82992' imdb='tt1905041'>
+<movie id="82992" imdb="tt1905041">
 <title>Fast &amp; Furious 6</title>
 <release>2013</release>
 <poster>
-<image url='/thSmnRdrzPBBospIOJjLZBReqzo.jpg'/>
+<image url="/thSmnRdrzPBBospIOJjLZBReqzo.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -1307,11 +1307,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='86828' imdb='tt1727770'>
+<movie id="86828" imdb="tt1727770">
 <title>Absolutely Anything</title>
 <release>2015</release>
 <poster>
-<image url='/tnBt9yPCQwnXLwioqfgnL5hqGM6.jpg'/>
+<image url="/tnBt9yPCQwnXLwioqfgnL5hqGM6.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1319,11 +1319,11 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='91314' imdb='tt2109248'>
+<movie id="91314" imdb="tt2109248">
 <title>Transformers: Age of Extinction</title>
 <release>2014</release>
 <poster>
-<image url='/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg'/>
+<image url="/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1332,11 +1332,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='98566' imdb='tt1291150'>
+<movie id="98566" imdb="tt1291150">
 <title>Teenage Mutant Ninja Turtles</title>
 <release>2014</release>
 <poster>
-<image url='/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg'/>
+<image url="/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1346,11 +1346,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='99861' imdb='tt2395427'>
+<movie id="99861" imdb="tt2395427">
 <title>Avengers Age of Ultron</title>
 <release>2015</release>
 <poster>
-<image url='/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg'/>
+<image url="/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1359,11 +1359,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='100402' imdb='tt1843866'>
+<movie id="100402" imdb="tt1843866">
 <title>Captain America The Winter Soldier</title>
 <release>2014</release>
 <poster>
-<image url='/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg'/>
+<image url="/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1372,11 +1372,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='101299' imdb='tt1951264'>
+<movie id="101299" imdb="tt1951264">
 <title>The Hunger Games Catching Fire</title>
 <release>2013</release>
 <poster>
-<image url='/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg'/>
+<image url="/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1385,11 +1385,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='102382' imdb='tt1872181'>
+<movie id="102382" imdb="tt1872181">
 <title>The Amazing Spider Man 2</title>
 <release>2014</release>
 <poster>
-<image url='/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg'/>
+<image url="/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
@@ -1397,11 +1397,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='102899' imdb='tt0478970'>
+<movie id="102899" imdb="tt0478970">
 <title>Ant-Man</title>
 <release>2015</release>
 <poster>
-<image url='/8YxOIPrabqkQCOKKbuxaz9IcqhO.jpg'/>
+<image url="/8YxOIPrabqkQCOKKbuxaz9IcqhO.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1410,11 +1410,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='106646' imdb='tt0993846'>
+<movie id="106646" imdb="tt0993846">
 <title>The Wolf of Wall Street</title>
 <release>2013</release>
 <poster>
-<image url='/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg'/>
+<image url="/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -1422,22 +1422,22 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='107846' imdb='tt1211956'>
+<movie id="107846" imdb="tt1211956">
 <title>Escape Plan</title>
 <release>2013</release>
 <poster>
-<image url='/k09ydRsOtdjCUxierkknRdujIF2.jpg'/>
+<image url="/k09ydRsOtdjCUxierkknRdujIF2.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='107985' imdb='tt1213663'>
+<movie id="107985" imdb="tt1213663">
 <title>The Worlds End</title>
 <release>2013</release>
 <poster>
-<image url='/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg'/>
+<image url="/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -1446,11 +1446,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='114150' imdb='tt1981677'>
+<movie id="114150" imdb="tt1981677">
 <title>Pitch Perfect</title>
 <release>2012</release>
 <poster>
-<image url='/ntRIoh8Qf1BI1AYGx0STfq0wUmb.jpg'/>
+<image url="/ntRIoh8Qf1BI1AYGx0STfq0wUmb.jpg"/>
 </poster>
 <categories>
 <category>Romance</category>
@@ -1458,22 +1458,22 @@
 <category>Music</category>
 </categories>
 </movie>
-<movie id='117263' imdb='tt2302755'>
+<movie id="117263" imdb="tt2302755">
 <title>Olympus Has Fallen</title>
 <release>2013</release>
 <poster>
-<image url='/ei2qjTiDpgKGuoSEntPCSAIhuvQ.jpg'/>
+<image url="/ei2qjTiDpgKGuoSEntPCSAIhuvQ.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='118340' imdb='tt2015381'>
+<movie id="118340" imdb="tt2015381">
 <title>Guardians of the Galaxy Vol. 1</title>
 <release>2014</release>
 <poster>
-<image url='/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg'/>
+<image url="/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1482,11 +1482,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='121856' imdb='tt2094766'>
+<movie id="121856" imdb="tt2094766">
 <title>Assassins Creed</title>
 <release>2016</release>
 <poster>
-<image url='/nhiShTvoga8fyGX8468hLj6pCtW.jpg'/>
+<image url="/nhiShTvoga8fyGX8468hLj6pCtW.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1495,11 +1495,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='131631' imdb='tt1951265'>
+<movie id="131631" imdb="tt1951265">
 <title>The Hunger Games: Mockingjay - Part 1</title>
 <release>2014</release>
 <poster>
-<image url='/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg'/>
+<image url="/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -1508,11 +1508,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='131634' imdb='tt1951266'>
+<movie id="131634" imdb="tt1951266">
 <title>The Hunger Games: Mockingjay - Part 2</title>
 <release>2015</release>
 <poster>
-<image url='/lImKHDfExAulp16grYm8zD5eONE.jpg'/>
+<image url="/lImKHDfExAulp16grYm8zD5eONE.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1521,11 +1521,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='136797' imdb='tt2369135'>
+<movie id="136797" imdb="tt2369135">
 <title>Need for Speed</title>
 <release>2014</release>
 <poster>
-<image url='/z42kyMizgDKetejusZgucSQsQ4l.jpg'/>
+<image url="/z42kyMizgDKetejusZgucSQsQ4l.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -1534,11 +1534,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='137113' imdb='tt1631867'>
+<movie id="137113" imdb="tt1631867">
 <title>Edge of Tomorrow</title>
 <release>2014</release>
 <poster>
-<image url='/xjw5trHV7Mwo61P0kCTy8paEkgO.jpg'/>
+<image url="/xjw5trHV7Mwo61P0kCTy8paEkgO.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1546,11 +1546,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='138103' imdb='tt2333784'>
+<movie id="138103" imdb="tt2333784">
 <title>The Expendables 3</title>
 <release>2014</release>
 <poster>
-<image url='/ruW3malZtlg66ODfg614dFbXO68.jpg'/>
+<image url="/ruW3malZtlg66ODfg614dFbXO68.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1558,11 +1558,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='140300' imdb='tt2267968'>
+<movie id="140300" imdb="tt2267968">
 <title>Kung Fu Panda 3</title>
 <release>2016</release>
 <poster>
-<image url='/oajNi4Su39WAByHI6EONu8G8HYn.jpg'/>
+<image url="/oajNi4Su39WAByHI6EONu8G8HYn.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1572,11 +1572,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='141052' imdb='tt0974015'>
+<movie id="141052" imdb="tt0974015">
 <title>Justice League</title>
 <release>2017</release>
 <poster>
-<image url='/eifGNCSDuxJeS1loAXil5bIGgvC.jpg'/>
+<image url="/eifGNCSDuxJeS1loAXil5bIGgvC.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1585,11 +1585,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='146198' imdb='tt1712261'>
+<movie id="146198" imdb="tt1712261">
 <title>Triple 9</title>
 <release>2016</release>
 <poster>
-<image url='/hMW4p1CBF8Q94PqQk8b2EyT4IJk.jpg'/>
+<image url="/hMW4p1CBF8Q94PqQk8b2EyT4IJk.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -1598,11 +1598,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='156717' imdb='tt1988591'>
+<movie id="156717" imdb="tt1988591">
 <title>Death Race 3</title>
 <release>2013</release>
 <poster>
-<image url='/aRV4oC61nmBqypSaXtMXOk99dOM.jpg'/>
+<image url="/aRV4oC61nmBqypSaXtMXOk99dOM.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1611,11 +1611,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='157336' imdb='tt0816692'>
+<movie id="157336" imdb="tt0816692">
 <title>Interstellar</title>
 <release>2014</release>
 <poster>
-<image url='/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg'/>
+<image url="/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -1624,11 +1624,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='166426' imdb='tt1790809'>
+<movie id="166426" imdb="tt1790809">
 <title>Pirates of the Caribbean - Dead Men Tell No Tales</title>
 <release>2017</release>
 <poster>
-<image url='/qwoGfcg6YUS55nUweKGujHE54Wy.jpg'/>
+<image url="/qwoGfcg6YUS55nUweKGujHE54Wy.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
@@ -1636,11 +1636,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='166428' imdb='tt2386490'>
+<movie id="166428" imdb="tt2386490">
 <title>How to Train Your Dragon The Hidden World</title>
 <release>2019</release>
 <poster>
-<image url='/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg'/>
+<image url="/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"/>
 </poster>
 <categories>
 <category>Animation</category>
@@ -1648,11 +1648,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='168259' imdb='tt2820852'>
+<movie id="168259" imdb="tt2820852">
 <title>Furious 7</title>
 <release>2015</release>
 <poster>
-<image url='/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg'/>
+<image url="/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -1660,22 +1660,22 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='177677' imdb='tt2381249'>
+<movie id="177677" imdb="tt2381249">
 <title>Mission Impossible Rogue Nation</title>
 <release>2015</release>
 <poster>
-<image url='/s6xX1oWbFuE2dxwazJeY2x24ClH.jpg'/>
+<image url="/s6xX1oWbFuE2dxwazJeY2x24ClH.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='187017' imdb='tt2294449'>
+<movie id="187017" imdb="tt2294449">
 <title>22 Jump Street</title>
 <release>2014</release>
 <poster>
-<image url='/850chzYHYbT3IISl6Q7dbBuFP2B.jpg'/>
+<image url="/850chzYHYbT3IISl6Q7dbBuFP2B.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1683,22 +1683,22 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='190859' imdb='tt2179136'>
+<movie id="190859" imdb="tt2179136">
 <title>American Sniper</title>
 <release>2014</release>
 <poster>
-<image url='/i1U46OwMc6vlm7OoSUKfqUH615e.jpg'/>
+<image url="/i1U46OwMc6vlm7OoSUKfqUH615e.jpg"/>
 </poster>
 <categories>
 <category>War</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='198184' imdb='tt1823672'>
+<movie id="198184" imdb="tt1823672">
 <title>Chappie</title>
 <release>2015</release>
 <poster>
-<image url='/hpnuXlKKWznTgbheGe4iQXzkuwJ.jpg'/>
+<image url="/hpnuXlKKWznTgbheGe4iQXzkuwJ.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1707,11 +1707,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='198663' imdb='tt1790864'>
+<movie id="198663" imdb="tt1790864">
 <title>The Maze Runner</title>
 <release>2014</release>
 <poster>
-<image url='/ode14q7WtDugFDp78fo9lCsmay9.jpg'/>
+<image url="/ode14q7WtDugFDp78fo9lCsmay9.jpg"/>
 </poster>
 <categories>
 <category>Mystery</category>
@@ -1721,11 +1721,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='201088' imdb='tt2717822'>
+<movie id="201088" imdb="tt2717822">
 <title>Blackhat</title>
 <release>2015</release>
 <poster>
-<image url='/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg'/>
+<image url="/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1733,11 +1733,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='207703' imdb='tt2802144'>
+<movie id="207703" imdb="tt2802144">
 <title>Kingsman The Secret Service</title>
 <release>2014</release>
 <poster>
-<image url='/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg'/>
+<image url="/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -1746,11 +1746,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='209112' imdb='tt2975590'>
+<movie id="209112" imdb="tt2975590">
 <title>Batman V Superman Dawn Of Justice</title>
 <release>2016</release>
 <poster>
-<image url='/5UsK3grJvtQrtzEgqNlDljJW96w.jpg'/>
+<image url="/5UsK3grJvtQrtzEgqNlDljJW96w.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
@@ -1758,11 +1758,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='240832' imdb='tt2872732'>
+<movie id="240832" imdb="tt2872732">
 <title>Lucy</title>
 <release>2014</release>
 <poster>
-<image url='/dhjyfcwEoW6jJ4Q7DpZTp6E58GA.jpg'/>
+<image url="/dhjyfcwEoW6jJ4Q7DpZTp6E58GA.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1770,22 +1770,22 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='245891' imdb='tt2911666'>
+<movie id="245891" imdb="tt2911666">
 <title>John Wick</title>
 <release>2014</release>
 <poster>
-<image url='/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg'/>
+<image url="/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='249070' imdb='tt2679042'>
+<movie id="249070" imdb="tt2679042">
 <title>Hitman - Agent 47</title>
 <release>2015</release>
 <poster>
-<image url='/52NXkgvzRYjRnqRPpqjpiwsIgRG.jpg'/>
+<image url="/52NXkgvzRYjRnqRPpqjpiwsIgRG.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -1793,22 +1793,22 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='254470' imdb='tt2848292'>
+<movie id="254470" imdb="tt2848292">
 <title>Pitch Perfect 2</title>
 <release>2015</release>
 <poster>
-<image url='/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg'/>
+<image url="/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg"/>
 </poster>
 <categories>
 <category>Music</category>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='259316' imdb='tt3183660'>
+<movie id="259316" imdb="tt3183660">
 <title>Fantastic Beasts And Where To Find Them</title>
 <release>2016</release>
 <poster>
-<image url='/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg'/>
+<image url="/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
@@ -1816,11 +1816,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='263115' imdb='tt3315342'>
+<movie id="263115" imdb="tt3315342">
 <title>Logan</title>
 <release>2017</release>
 <poster>
-<image url='/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg'/>
+<image url="/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1829,22 +1829,22 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='267860' imdb='tt3300542'>
+<movie id="267860" imdb="tt3300542">
 <title>London Has Fallen</title>
 <release>2016</release>
 <poster>
-<image url='/korY0GInEJThWEm23MRmErQ3GqT.jpg'/>
+<image url="/korY0GInEJThWEm23MRmErQ3GqT.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='268896' imdb='tt2557478'>
+<movie id="268896" imdb="tt2557478">
 <title>Pacific Rim Uprising</title>
 <release>2018</release>
 <poster>
-<image url='/qh3LRJG0ddJPe6Q7SqMJhBWxGHu.jpg'/>
+<image url="/qh3LRJG0ddJPe6Q7SqMJhBWxGHu.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1854,11 +1854,11 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='271110' imdb='tt3498820'>
+<movie id="271110" imdb="tt3498820">
 <title>Captain America Civil War</title>
 <release>2016</release>
 <poster>
-<image url='/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg'/>
+<image url="/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1867,22 +1867,22 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='273477' imdb='tt1727776'>
+<movie id="273477" imdb="tt1727776">
 <title>Scouts Guide To The Zombie Apocalypse</title>
 <release>2015</release>
 <poster>
-<image url='/lUKvvSnjFlazrdh6wyHxHrdMknD.jpg'/>
+<image url="/lUKvvSnjFlazrdh6wyHxHrdMknD.jpg"/>
 </poster>
 <categories>
 <category>Horror</category>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='274855' imdb='tt1981128'>
+<movie id="274855" imdb="tt1981128">
 <title>Geostorm</title>
 <release>2017</release>
 <poster>
-<image url='/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg'/>
+<image url="/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1891,11 +1891,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='278924' imdb='tt3522806'>
+<movie id="278924" imdb="tt3522806">
 <title>Mechanic Resurrection</title>
 <release>2016</release>
 <poster>
-<image url='/h651SE7s5z9hbKDiwn38Iubkz5w.jpg'/>
+<image url="/h651SE7s5z9hbKDiwn38Iubkz5w.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1903,11 +1903,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='283995' imdb='tt3896198'>
+<movie id="283995" imdb="tt3896198">
 <title>Guardians Of The Galaxy Vol. 2</title>
 <release>2017</release>
 <poster>
-<image url='/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg'/>
+<image url="/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -1916,11 +1916,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='284052' imdb='tt1211837'>
+<movie id="284052" imdb="tt1211837">
 <title>Doctor Strange</title>
 <release>2016</release>
 <poster>
-<image url='/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg'/>
+<image url="/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1928,11 +1928,11 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='284053' imdb='tt3501632'>
+<movie id="284053" imdb="tt3501632">
 <title>Thor Ragnarok</title>
 <release>2017</release>
 <poster>
-<image url='/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg'/>
+<image url="/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1941,11 +1941,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='284054' imdb='tt1825683'>
+<movie id="284054" imdb="tt1825683">
 <title>Black Panther</title>
 <release>2018</release>
 <poster>
-<image url='/uxzzxijgPIY7slzFvMotPv8wjKA.jpg'/>
+<image url="/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1954,11 +1954,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='286567' imdb='tt1472584'>
+<movie id="286567" imdb="tt1472584">
 <title>Max Steel</title>
 <release>2016</release>
 <poster>
-<image url='/AuEzNLF8yvzd169guYEFisqvy5z.jpg'/>
+<image url="/AuEzNLF8yvzd169guYEFisqvy5z.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -1967,11 +1967,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='287947' imdb='tt0448115'>
+<movie id="287947" imdb="tt0448115">
 <title>Shazam!</title>
 <release>2019</release>
 <poster>
-<image url='/xnopI5Xtky18MPhK40cZAGAOVeV.jpg'/>
+<image url="/xnopI5Xtky18MPhK40cZAGAOVeV.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -1979,11 +1979,11 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='287948' imdb='tt2938956'>
+<movie id="287948" imdb="tt2938956">
 <title>The Transporter Refueled</title>
 <release>2015</release>
 <poster>
-<image url='/71kaQfdrMy0LHSeLRADsvlDGCgb.jpg'/>
+<image url="/71kaQfdrMy0LHSeLRADsvlDGCgb.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -1991,11 +1991,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='291805' imdb='tt3110958'>
+<movie id="291805" imdb="tt3110958">
 <title>Now You See Me 2</title>
 <release>2016</release>
 <poster>
-<image url='/A81kDB6a1K86YLlcOtZB27jriJh.jpg'/>
+<image url="/A81kDB6a1K86YLlcOtZB27jriJh.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -2004,21 +2004,21 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='291870' imdb='tt1860213'>
+<movie id="291870" imdb="tt1860213">
 <title>Dirty Grandpa</title>
 <release>2016</release>
 <poster>
-<image url='/dETlaFOsefoeZqtgAsF5eiB3OiG.jpg'/>
+<image url="/dETlaFOsefoeZqtgAsF5eiB3OiG.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='293660' imdb='tt1431045'>
+<movie id="293660" imdb="tt1431045">
 <title>Deadpool</title>
 <release>2016</release>
 <poster>
-<image url='/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg'/>
+<image url="/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -2026,11 +2026,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='297761' imdb='tt1386697'>
+<movie id="297761" imdb="tt1386697">
 <title>Suicide Squad</title>
 <release>2016</release>
 <poster>
-<image url='/xFw9RXKZDvevAGocgBK0zteto4U.jpg'/>
+<image url="/xFw9RXKZDvevAGocgBK0zteto4U.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2038,11 +2038,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='297762' imdb='tt0451279'>
+<movie id="297762" imdb="tt0451279">
 <title>Wonder Woman</title>
 <release>2017</release>
 <poster>
-<image url='/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg'/>
+<image url="/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2050,11 +2050,11 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='297802' imdb='tt1477834'>
+<movie id="297802" imdb="tt1477834">
 <title>Aquaman</title>
 <release>2018</release>
 <poster>
-<image url='/xLPffWMhMj1l50ND3KchMjYoKmE.jpg'/>
+<image url="/xLPffWMhMj1l50ND3KchMjYoKmE.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2062,11 +2062,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='298618' imdb='tt0439572'>
+<movie id="298618" imdb="tt0439572">
 <title>The Flash</title>
 <release>2023</release>
 <poster>
-<image url='/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg'/>
+<image url="/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -2075,11 +2075,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='299054' imdb='tt3291150'>
+<movie id="299054" imdb="tt3291150">
 <title>Expend4bles</title>
 <release>2023</release>
 <poster>
-<image url='/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg'/>
+<image url="/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -2087,11 +2087,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='299534' imdb='tt4154796'>
+<movie id="299534" imdb="tt4154796">
 <title>Avengers Endgame</title>
 <release>2019</release>
 <poster>
-<image url='/or06FN3Dka5tukK1e9sl16pB3iy.jpg'/>
+<image url="/or06FN3Dka5tukK1e9sl16pB3iy.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2100,11 +2100,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='299536' imdb='tt4154756'>
+<movie id="299536" imdb="tt4154756">
 <title>Avengers Infinity War</title>
 <release>2018</release>
 <poster>
-<image url='/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg'/>
+<image url="/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2113,11 +2113,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='299537' imdb='tt4154664'>
+<movie id="299537" imdb="tt4154664">
 <title>Captain Marvel</title>
 <release>2019</release>
 <poster>
-<image url='/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg'/>
+<image url="/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2126,11 +2126,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='299687' imdb='tt2304933'>
+<movie id="299687" imdb="tt2304933">
 <title>The 5th Wave</title>
 <release>2016</release>
 <poster>
-<image url='/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg'/>
+<image url="/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -2139,11 +2139,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='302699' imdb='tt1489889'>
+<movie id="302699" imdb="tt1489889">
 <title>Central Intelligence</title>
 <release>2016</release>
 <poster>
-<image url='/7irCMBIivXAqjZ7MgZoGVLrgACR.jpg'/>
+<image url="/7irCMBIivXAqjZ7MgZoGVLrgACR.jpg"/>
 </poster>
 <categories>
 <category>Mystery</category>
@@ -2152,11 +2152,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='302946' imdb='tt2140479'>
+<movie id="302946" imdb="tt2140479">
 <title>The Accountant</title>
 <release>2016</release>
 <poster>
-<image url='/nztAld019tFjllW7VCJvPFiFkt8.jpg'/>
+<image url="/nztAld019tFjllW7VCJvPFiFkt8.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -2164,11 +2164,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='308531' imdb='tt3949660'>
+<movie id="308531" imdb="tt3949660">
 <title>Teenage Mutant Ninja Turtles Out Of The Shadows</title>
 <release>2016</release>
 <poster>
-<image url='/euVaCiCWz3AALcQXHT6aUqdGUo6.jpg'/>
+<image url="/euVaCiCWz3AALcQXHT6aUqdGUo6.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2179,11 +2179,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='315162' imdb='tt3915174'>
+<movie id="315162" imdb="tt3915174">
 <title>Puss in Boots: The Last Wish</title>
 <release>2022</release>
 <poster>
-<image url='/kuf6dutpsT0vSVehic3EZIqkOBt.jpg'/>
+<image url="/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -2194,11 +2194,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='315635' imdb='tt2250912'>
+<movie id="315635" imdb="tt2250912">
 <title>Spider-Man Homecoming</title>
 <release>2017</release>
 <poster>
-<image url='/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg'/>
+<image url="/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -2208,11 +2208,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='315837' imdb='tt1219827'>
+<movie id="315837" imdb="tt1219827">
 <title>Ghost In The Shell</title>
 <release>2017</release>
 <poster>
-<image url='/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg'/>
+<image url="/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -2221,11 +2221,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='324552' imdb='tt4425200'>
+<movie id="324552" imdb="tt4425200">
 <title>John Wick Chapter 2</title>
 <release>2017</release>
 <poster>
-<image url='/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg'/>
+<image url="/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -2233,11 +2233,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='324668' imdb='tt4196776'>
+<movie id="324668" imdb="tt4196776">
 <title>Jason Bourne</title>
 <release>2016</release>
 <poster>
-<image url='/xA7N41glw17MBQtcWSm2eBlBRuG.jpg'/>
+<image url="/xA7N41glw17MBQtcWSm2eBlBRuG.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -2246,11 +2246,11 @@
 <category>Mystery</category>
 </categories>
 </movie>
-<movie id='324670' imdb='tt2106651'>
+<movie id="324670" imdb="tt2106651">
 <title>Spectral</title>
 <release>2016</release>
 <poster>
-<image url='/b38TATFWkb3TRNUIPcvGiErRzrw.jpg'/>
+<image url="/b38TATFWkb3TRNUIPcvGiErRzrw.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2259,11 +2259,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='329996' imdb='tt3861390'>
+<movie id="329996" imdb="tt3861390">
 <title>Dumbo</title>
 <release>2019</release>
 <poster>
-<image url='/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg'/>
+<image url="/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
@@ -2271,11 +2271,11 @@
 <category>Family</category>
 </categories>
 </movie>
-<movie id='333339' imdb='tt1677720'>
+<movie id="333339" imdb="tt1677720">
 <title>Ready Player One</title>
 <release>2018</release>
 <poster>
-<image url='/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg'/>
+<image url="/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -2284,33 +2284,33 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='335787' imdb='tt1464335'>
+<movie id="335787" imdb="tt1464335">
 <title>Uncharted</title>
 <release>2022</release>
 <poster>
-<image url='/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg'/>
+<image url="/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='335977' imdb='tt1462764'>
+<movie id="335977" imdb="tt1462764">
 <title>Indiana Jones And The Dial Of Destiny</title>
 <release>2023</release>
 <poster>
-<image url='/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg'/>
+<image url="/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='335983' imdb='tt1270797'>
+<movie id="335983" imdb="tt1270797">
 <title>Venom</title>
 <release>2018</release>
 <poster>
-<image url='/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg'/>
+<image url="/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -2318,11 +2318,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='335984' imdb='tt1856101'>
+<movie id="335984" imdb="tt1856101">
 <title>Blade Runner 2049</title>
 <release>2017</release>
 <poster>
-<image url='/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg'/>
+<image url="/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -2330,11 +2330,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='335988' imdb='tt3371366'>
+<movie id="335988" imdb="tt3371366">
 <title>Transformers: The Last Knight</title>
 <release>2017</release>
 <poster>
-<image url='/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg'/>
+<image url="/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2343,11 +2343,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='337170' imdb='tt3532216'>
+<movie id="337170" imdb="tt3532216">
 <title>American Made</title>
 <release>2017</release>
 <poster>
-<image url='/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg'/>
+<image url="/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -2355,11 +2355,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='337339' imdb='tt4630562'>
+<movie id="337339" imdb="tt4630562">
 <title>The Fate Of The Furious</title>
 <release>2017</release>
 <poster>
-<image url='/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg'/>
+<image url="/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -2367,11 +2367,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='338952' imdb='tt4123430'>
+<movie id="338952" imdb="tt4123430">
 <title>Fantastic Beasts: The Crimes of Grindelwald</title>
 <release>2018</release>
 <poster>
-<image url='/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg'/>
+<image url="/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2379,33 +2379,33 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='338953' imdb='tt4123432'>
+<movie id="338953" imdb="tt4123432">
 <title>Fantastic Beasts The Secrets Of Dumbledore</title>
 <release>2022</release>
 <poster>
-<image url='/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg'/>
+<image url="/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='338967' imdb='tt1560220'>
+<movie id="338967" imdb="tt1560220">
 <title>Zombieland: Double Tap</title>
 <release>2019</release>
 <poster>
-<image url='/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg'/>
+<image url="/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 <category>Horror</category>
 </categories>
 </movie>
-<movie id='338970' imdb='tt1365519'>
+<movie id="338970" imdb="tt1365519">
 <title>Tomb Raider</title>
 <release>2018</release>
 <poster>
-<image url='/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg'/>
+<image url="/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2413,11 +2413,11 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='339964' imdb='tt2239822'>
+<movie id="339964" imdb="tt2239822">
 <title>Valerian and The City Of a Thousand Planets</title>
 <release>2017</release>
 <poster>
-<image url='/aCDrPEfvxcPNRynd2uZyXql7aj.jpg'/>
+<image url="/aCDrPEfvxcPNRynd2uZyXql7aj.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2426,33 +2426,33 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='341013' imdb='tt2406566'>
+<movie id="341013" imdb="tt2406566">
 <title>Atomic Blonde</title>
 <release>2017</release>
 <poster>
-<image url='/vCmMRNbDlCno6ra91ruXp5rtsUC.jpg'/>
+<image url="/vCmMRNbDlCno6ra91ruXp5rtsUC.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='343611' imdb='tt3393786'>
+<movie id="343611" imdb="tt3393786">
 <title>Jack Reacher Never Go Back</title>
 <release>2016</release>
 <poster>
-<image url='/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg'/>
+<image url="/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='343668' imdb='tt4649466'>
+<movie id="343668" imdb="tt4649466">
 <title>Kingsman: The Golden Circle</title>
 <release>2017</release>
 <poster>
-<image url='/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg'/>
+<image url="/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2460,33 +2460,33 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='347626' imdb='tt4590256'>
+<movie id="347626" imdb="tt4590256">
 <title>Hes All That</title>
 <release>2021</release>
 <poster>
-<image url='/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg'/>
+<image url="/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 <category>Romance</category>
 </categories>
 </movie>
-<movie id='353081' imdb='tt4912910'>
+<movie id="353081" imdb="tt4912910">
 <title>Mission Impossible - Fallout</title>
 <release>2018</release>
 <poster>
-<image url='/fRx0rt1zu6WhqP2sRetZ3KClyw3.jpg'/>
+<image url="/fRx0rt1zu6WhqP2sRetZ3KClyw3.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='353486' imdb='tt2283362'>
+<movie id="353486" imdb="tt2283362">
 <title>Jumanji Welcome To The Jungle</title>
 <release>2017</release>
 <poster>
-<image url='/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg'/>
+<image url="/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2495,33 +2495,33 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='353616' imdb='tt4765284'>
+<movie id="353616" imdb="tt4765284">
 <title>Pitch Perfect 3</title>
 <release>2017</release>
 <poster>
-<image url='/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg'/>
+<image url="/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg"/>
 </poster>
 <categories>
 <category>Music</category>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='361743' imdb='tt1745960'>
+<movie id="361743" imdb="tt1745960">
 <title>Top Gun - Maverick</title>
 <release>2022</release>
 <poster>
-<image url='/62HCnUTziyWcpDaBO2i1DX17ljH.jpg'/>
+<image url="/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='363088' imdb='tt5095030'>
+<movie id="363088" imdb="tt5095030">
 <title>Ant-Man And The Wasp</title>
 <release>2018</release>
 <poster>
-<image url='/cFQEO687n1K6umXbInzocxcnAQz.jpg'/>
+<image url="/cFQEO687n1K6umXbInzocxcnAQz.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2530,11 +2530,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='365942' imdb='tt3922818'>
+<movie id="365942" imdb="tt3922818">
 <title>The Space Between Us</title>
 <release>2017</release>
 <poster>
-<image url='/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg'/>
+<image url="/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg"/>
 </poster>
 <categories>
 <category>Romance</category>
@@ -2544,11 +2544,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='375588' imdb='tt4532826'>
+<movie id="375588" imdb="tt4532826">
 <title>Robin Hood</title>
 <release>2018</release>
 <poster>
-<image url='/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg'/>
+<image url="/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2556,11 +2556,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='383498' imdb='tt5463162'>
+<movie id="383498" imdb="tt5463162">
 <title>Deadpool 2</title>
 <release>2018</release>
 <poster>
-<image url='/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg'/>
+<image url="/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2568,11 +2568,11 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='384018' imdb='tt6806448'>
+<movie id="384018" imdb="tt6806448">
 <title>Fast &amp; Furious Presents Hobbs &amp; Shaw</title>
 <release>2019</release>
 <poster>
-<image url='/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg'/>
+<image url="/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2580,11 +2580,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='385128' imdb='tt5433138'>
+<movie id="385128" imdb="tt5433138">
 <title>F9</title>
 <release>2021</release>
 <poster>
-<image url='/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg'/>
+<image url="/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -2592,11 +2592,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='385687' imdb='tt5433140'>
+<movie id="385687" imdb="tt5433140">
 <title>Fast X</title>
 <release>2023</release>
 <poster>
-<image url='/fiVW06jE7z9YnO4trhaMEdclSiC.jpg'/>
+<image url="/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -2604,11 +2604,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='399579' imdb='tt0437086'>
+<movie id="399579" imdb="tt0437086">
 <title>Alita Battle Angel</title>
 <release>2019</release>
 <poster>
-<image url='/xRWht48C2V8XNfzvPehyClOvDni.jpg'/>
+<image url="/xRWht48C2V8XNfzvPehyClOvDni.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2617,11 +2617,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='400106' imdb='tt5519340'>
+<movie id="400106" imdb="tt5519340">
 <title>Bright</title>
 <release>2017</release>
 <poster>
-<image url='/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg'/>
+<image url="/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2629,11 +2629,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='402897' imdb='tt4686844'>
+<movie id="402897" imdb="tt4686844">
 <title>The Death Of Stalin</title>
 <release>2017</release>
 <poster>
-<image url='/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg'/>
+<image url="/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -2641,11 +2641,11 @@
 <category>History</category>
 </categories>
 </movie>
-<movie id='406759' imdb='tt5834426'>
+<movie id="406759" imdb="tt5834426">
 <title>Moonfall</title>
 <release>2022</release>
 <poster>
-<image url='/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg'/>
+<image url="/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2654,11 +2654,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='413052' imdb='tt3173594'>
+<movie id="413052" imdb="tt3173594">
 <title>Hacker</title>
 <release>2016</release>
 <poster>
-<image url='/gpYwKrP6s749b5Nzgm2174jKrpf.jpg'/>
+<image url="/gpYwKrP6s749b5Nzgm2174jKrpf.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -2666,11 +2666,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='416494' imdb='tt5692390'>
+<movie id="416494" imdb="tt5692390">
 <title>Status Update</title>
 <release>2018</release>
 <poster>
-<image url='/E4twRNScyq3g6tRpvK6X8LdD1z.jpg'/>
+<image url="/E4twRNScyq3g6tRpvK6X8LdD1z.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -2679,11 +2679,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='420817' imdb='tt6139732'>
+<movie id="420817" imdb="tt6139732">
 <title>Aladdin</title>
 <release>2019</release>
 <poster>
-<image url='/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg'/>
+<image url="/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2692,22 +2692,22 @@
 <category>Romance</category>
 </categories>
 </movie>
-<movie id='423204' imdb='tt6189022'>
+<movie id="423204" imdb="tt6189022">
 <title>Angel Has Fallen</title>
 <release>2019</release>
 <poster>
-<image url='/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg'/>
+<image url="/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='424783' imdb='tt4701182'>
+<movie id="424783" imdb="tt4701182">
 <title>Bumblebee</title>
 <release>2018</release>
 <poster>
-<image url='/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg'/>
+<image url="/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2716,11 +2716,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='428078' imdb='tt1571234'>
+<movie id="428078" imdb="tt1571234">
 <title>Mortal Engines</title>
 <release>2018</release>
 <poster>
-<image url='/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg'/>
+<image url="/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2728,11 +2728,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='429617' imdb='tt6320628'>
+<movie id="429617" imdb="tt6320628">
 <title>Spider-Man Far From Home</title>
 <release>2019</release>
 <poster>
-<image url='/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg'/>
+<image url="/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2741,11 +2741,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='436270' imdb='tt6443346'>
+<movie id="436270" imdb="tt6443346">
 <title>Black Adam</title>
 <release>2022</release>
 <poster>
-<image url='/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg'/>
+<image url="/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -2754,11 +2754,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='436969' imdb='tt6334354'>
+<movie id="436969" imdb="tt6334354">
 <title>The Suicide Squad</title>
 <release>2021</release>
 <poster>
-<image url='/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg'/>
+<image url="/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -2766,22 +2766,22 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='447362' imdb='tt6598238'>
+<movie id="447362" imdb="tt6598238">
 <title>Life In A Year</title>
 <release>2020</release>
 <poster>
-<image url='/bP7u19opmHXYeTCUwGjlLldmUMc.jpg'/>
+<image url="/bP7u19opmHXYeTCUwGjlLldmUMc.jpg"/>
 </poster>
 <categories>
 <category>Romance</category>
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='447365' imdb='tt6791350'>
+<movie id="447365" imdb="tt6791350">
 <title>Guardians Of The Galaxy Vol. 3</title>
 <release>2023</release>
 <poster>
-<image url='/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg'/>
+<image url="/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -2790,11 +2790,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='447404' imdb='tt5884052'>
+<movie id="447404" imdb="tt5884052">
 <title>Pokémon Detective Pikachu</title>
 <release>2019</release>
 <poster>
-<image url='/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg'/>
+<image url="/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2802,11 +2802,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='449443' imdb='tt1259528'>
+<movie id="449443" imdb="tt1259528">
 <title>Den Of Thieves</title>
 <release>2018</release>
 <poster>
-<image url='/AfybH6GbGFw1F9bcETe2yu25mIE.jpg'/>
+<image url="/AfybH6GbGFw1F9bcETe2yu25mIE.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -2814,11 +2814,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='453395' imdb='tt9419884'>
+<movie id="453395" imdb="tt9419884">
 <title>Doctor Strange In The Multiverse Of Madness</title>
 <release>2022</release>
 <poster>
-<image url='/fwBl3J2aEXru6mrr9Xg8O99Iz2K.jpg'/>
+<image url="/fwBl3J2aEXru6mrr9Xg8O99Iz2K.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2826,11 +2826,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='454626' imdb='tt3794354'>
+<movie id="454626" imdb="tt3794354">
 <title>Sonic the Hedgehog</title>
 <release>2020</release>
 <poster>
-<image url='/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg'/>
+<image url="/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg"/>
 </poster>
 <categories>
 <category>Family</category>
@@ -2840,22 +2840,22 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='454983' imdb='tt3799232'>
+<movie id="454983" imdb="tt3799232">
 <title>The Kissing Booth</title>
 <release>2018</release>
 <poster>
-<image url='/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg'/>
+<image url="/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 <category>Romance</category>
 </categories>
 </movie>
-<movie id='458156' imdb='tt6146586'>
+<movie id="458156" imdb="tt6146586">
 <title>John Wick Chapter 3 - Parabellum</title>
 <release>2019</release>
 <poster>
-<image url='/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg'/>
+<image url="/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -2863,11 +2863,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='458576' imdb='tt6475714'>
+<movie id="458576" imdb="tt6475714">
 <title>Monster Hunter</title>
 <release>2020</release>
 <poster>
-<image url='/1UCOF11QCw8kcqvce8LKOO6pimh.jpg'/>
+<image url="/1UCOF11QCw8kcqvce8LKOO6pimh.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2875,11 +2875,11 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='461130' imdb='tt6259380'>
+<movie id="461130" imdb="tt6259380">
 <title>Code 8</title>
 <release>2019</release>
 <poster>
-<image url='/izGX7npHEopDQvngYcxMJEfcFbj.jpg'/>
+<image url="/izGX7npHEopDQvngYcxMJEfcFbj.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2888,11 +2888,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='463272' imdb='tt6921996'>
+<movie id="463272" imdb="tt6921996">
 <title>Johnny English Strikes Again</title>
 <release>2018</release>
 <poster>
-<image url='/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg'/>
+<image url="/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -2900,11 +2900,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='464052' imdb='tt7126948'>
+<movie id="464052" imdb="tt7126948">
 <title>Wonder Woman 1984</title>
 <release>2020</release>
 <poster>
-<image url='/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg'/>
+<image url="/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2912,11 +2912,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='475557' imdb='tt7286456'>
+<movie id="475557" imdb="tt7286456">
 <title>Joker</title>
 <release>2019</release>
 <poster>
-<image url='/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg'/>
+<image url="/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -2924,11 +2924,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='493529' imdb='tt2906216'>
+<movie id="493529" imdb="tt2906216">
 <title>Dungeons And Dragons Honor Among Thieves</title>
 <release>2023</release>
 <poster>
-<image url='/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg'/>
+<image url="/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -2936,22 +2936,22 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='495764' imdb='tt7713068'>
+<movie id="495764" imdb="tt7713068">
 <title>Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn</title>
 <release>2020</release>
 <poster>
-<image url='/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg'/>
+<image url="/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='497582' imdb='tt7846844'>
+<movie id="497582" imdb="tt7846844">
 <title>Enola Holmes</title>
 <release>2020</release>
 <poster>
-<image url='/riYInlsq2kf1AWoGm80JQW5dLKp.jpg'/>
+<image url="/riYInlsq2kf1AWoGm80JQW5dLKp.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -2959,11 +2959,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='497698' imdb='tt3480822'>
+<movie id="497698" imdb="tt3480822">
 <title>Black Widow</title>
 <release>2021</release>
 <poster>
-<image url='/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg'/>
+<image url="/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -2972,11 +2972,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='503736' imdb='tt0993840'>
+<movie id="503736" imdb="tt0993840">
 <title>Army Of The Dead</title>
 <release>2021</release>
 <poster>
-<image url='/z8CExJekGrEThbpMXAmCFvvgoJR.jpg'/>
+<image url="/z8CExJekGrEThbpMXAmCFvvgoJR.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -2988,11 +2988,11 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='505642' imdb='tt9114286'>
+<movie id="505642" imdb="tt9114286">
 <title>Black Panther Wakanda Forever</title>
 <release>2022</release>
 <poster>
-<image url='/sv1xJUazXeYqALzczSZ3O6nkH75.jpg'/>
+<image url="/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -3001,11 +3001,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='505948' imdb='tt6292852'>
+<movie id="505948" imdb="tt6292852">
 <title>I Am Mother</title>
 <release>2019</release>
 <poster>
-<image url='/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg'/>
+<image url="/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -3013,22 +3013,22 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='507089' imdb='tt4589218'>
+<movie id="507089" imdb="tt4589218">
 <title>Five Nights At Freddys</title>
 <release>2023</release>
 <poster>
-<image url='/j9mH1pr3IahtraTWxVEMANmPSGR.jpg'/>
+<image url="/j9mH1pr3IahtraTWxVEMANmPSGR.jpg"/>
 </poster>
 <categories>
 <category>Mystery</category>
 <category>Horror</category>
 </categories>
 </movie>
-<movie id='509967' imdb='tt8106534'>
+<movie id="509967" imdb="tt8106534">
 <title>6 Underground</title>
 <release>2019</release>
 <poster>
-<image url='/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg'/>
+<image url="/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -3036,11 +3036,11 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='512195' imdb='tt7991608'>
+<movie id="512195" imdb="tt7991608">
 <title>Red Notice</title>
 <release>2021</release>
 <poster>
-<image url='/lAXONuqg41NwUMuzMiFvicDET9Y.jpg'/>
+<image url="/lAXONuqg41NwUMuzMiFvicDET9Y.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -3048,11 +3048,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='512200' imdb='tt7975244'>
+<movie id="512200" imdb="tt7975244">
 <title>Jumanji: The Next Level</title>
 <release>2019</release>
 <poster>
-<image url='/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg'/>
+<image url="/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
@@ -3060,11 +3060,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='524434' imdb='tt9032400'>
+<movie id="524434" imdb="tt9032400">
 <title>Eternals</title>
 <release>2021</release>
 <poster>
-<image url='/lFByFSLV5WDJEv3KabbdAF959F2.jpg'/>
+<image url="/lFByFSLV5WDJEv3KabbdAF959F2.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3073,11 +3073,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='535292' imdb='tt8688634'>
+<movie id="535292" imdb="tt8688634">
 <title>21 Bridges</title>
 <release>2019</release>
 <poster>
-<image url='/b40ApfKDPoJYbWepUs7f09Y3fD.jpg'/>
+<image url="/b40ApfKDPoJYbWepUs7f09Y3fD.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -3085,44 +3085,44 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='543540' imdb='tt8201170'>
+<movie id="543540" imdb="tt8201170">
 <title>The Perfect Date</title>
 <release>2019</release>
 <poster>
-<image url='/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg'/>
+<image url="/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg"/>
 </poster>
 <categories>
 <category>Romance</category>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='545609' imdb='tt8936646'>
+<movie id="545609" imdb="tt8936646">
 <title>Extraction</title>
 <release>2020</release>
 <poster>
-<image url='/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg'/>
+<image url="/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='547016' imdb='tt7556122'>
+<movie id="547016" imdb="tt7556122">
 <title>The Old Guard</title>
 <release>2020</release>
 <poster>
-<image url='/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg'/>
+<image url="/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg"/>
 </poster>
 <categories>
 <category>Fantasy</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='550988' imdb='tt6264654'>
+<movie id="550988" imdb="tt6264654">
 <title>Free Guy</title>
 <release>2021</release>
 <poster>
-<image url='/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg'/>
+<image url="/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -3131,11 +3131,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='566525' imdb='tt9376612'>
+<movie id="566525" imdb="tt9376612">
 <title>Shang-Chi And The Legend Of The Ten Rings</title>
 <release>2021</release>
 <poster>
-<image url='/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg'/>
+<image url="/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3143,22 +3143,22 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='575264' imdb='tt9603212'>
+<movie id="575264" imdb="tt9603212">
 <title>Mission Impossible - Dead Reckoning Part One</title>
 <release>2023</release>
 <poster>
-<image url='/a26bjrzgtVRbPifUB37b7nSqTs2.jpg'/>
+<image url="/a26bjrzgtVRbPifUB37b7nSqTs2.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='580489' imdb='tt7097896'>
+<movie id="580489" imdb="tt7097896">
 <title>Venom Let There Be Carnage</title>
 <release>2021</release>
 <poster>
-<image url='/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg'/>
+<image url="/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -3167,22 +3167,22 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='583083' imdb='tt9784456'>
+<movie id="583083" imdb="tt9784456">
 <title>The Kissing Booth 2</title>
 <release>2020</release>
 <poster>
-<image url='/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg'/>
+<image url="/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 <category>Romance</category>
 </categories>
 </movie>
-<movie id='588228' imdb='tt9777666'>
+<movie id="588228" imdb="tt9777666">
 <title>The Tomorrow War</title>
 <release>2021</release>
 <poster>
-<image url='/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg'/>
+<image url="/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -3191,44 +3191,44 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='591273' imdb='tt6566576'>
+<movie id="591273" imdb="tt6566576">
 <title>Fear Street Part 1 1994</title>
 <release>2021</release>
 <poster>
-<image url='/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg'/>
+<image url="/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg"/>
 </poster>
 <categories>
 <category>Horror</category>
 <category>Mystery</category>
 </categories>
 </movie>
-<movie id='591274' imdb='tt9701940'>
+<movie id="591274" imdb="tt9701940">
 <title>Fear Street Part Two 1978</title>
 <release>2021</release>
 <poster>
-<image url='/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg'/>
+<image url="/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg"/>
 </poster>
 <categories>
 <category>Mystery</category>
 <category>Horror</category>
 </categories>
 </movie>
-<movie id='591275' imdb='tt9701942'>
+<movie id="591275" imdb="tt9701942">
 <title>Fear Street Part Three - 1666</title>
 <release>2021</release>
 <poster>
-<image url='/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg'/>
+<image url="/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg"/>
 </poster>
 <categories>
 <category>Horror</category>
 <category>Mystery</category>
 </categories>
 </movie>
-<movie id='595743' imdb='tt4479380'>
+<movie id="595743" imdb="tt4479380">
 <title>SAS Red Notice</title>
 <release>2021</release>
 <poster>
-<image url='/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg'/>
+<image url="/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -3236,21 +3236,21 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='598133' imdb='tt8145202'>
+<movie id="598133" imdb="tt8145202">
 <title>The F k-It List</title>
 <release>2020</release>
 <poster>
-<image url='/oIxGqt2XKTLEKLHVffIv9hUlW0T.jpg'/>
+<image url="/oIxGqt2XKTLEKLHVffIv9hUlW0T.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='603692' imdb='tt10366206'>
+<movie id="603692" imdb="tt10366206">
 <title>John Wick Chapter 4</title>
 <release>2023</release>
 <poster>
-<image url='/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg'/>
+<image url="/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3258,44 +3258,44 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='610253' imdb='tt10665338'>
+<movie id="610253" imdb="tt10665338">
 <title>Halloween Kills</title>
 <release>2021</release>
 <poster>
-<image url='/4CclCDyQXBBgz62Qtp3CoflQE5g.jpg'/>
+<image url="/4CclCDyQXBBgz62Qtp3CoflQE5g.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 <category>Horror</category>
 </categories>
 </movie>
-<movie id='612706' imdb='tt10276470'>
+<movie id="612706" imdb="tt10276470">
 <title>Work It</title>
 <release>2020</release>
 <poster>
-<image url='/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg'/>
+<image url="/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 <category>Music</category>
 </categories>
 </movie>
-<movie id='615457' imdb='tt7888964'>
+<movie id="615457" imdb="tt7888964">
 <title>Nobody</title>
 <release>2021</release>
 <poster>
-<image url='/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg'/>
+<image url="/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='616037' imdb='tt10648342'>
+<movie id="616037" imdb="tt10648342">
 <title>Thor Love And Thunder</title>
 <release>2022</release>
 <poster>
-<image url='/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg'/>
+<image url="/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3303,22 +3303,22 @@
 <category>Fantasy</category>
 </categories>
 </movie>
-<movie id='617502' imdb='tt10228134'>
+<movie id="617502" imdb="tt10228134">
 <title>Jolt</title>
 <release>2021</release>
 <poster>
-<image url='/gYZAHan5CHPFXORpQMvOjCTug4E.jpg'/>
+<image url="/gYZAHan5CHPFXORpQMvOjCTug4E.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='620705' imdb='tt5264838'>
+<movie id="620705" imdb="tt5264838">
 <title>Crater</title>
 <release>2023</release>
 <poster>
-<image url='/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg'/>
+<image url="/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -3328,11 +3328,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='625450' imdb='tt9252508'>
+<movie id="625450" imdb="tt9252508">
 <title>Tall Girl</title>
 <release>2019</release>
 <poster>
-<image url='/m0clsFEXidLVJ0TueqWOvvImOMh.jpg'/>
+<image url="/m0clsFEXidLVJ0TueqWOvvImOMh.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -3340,11 +3340,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='629176' imdb='tt5500218'>
+<movie id="629176" imdb="tt5500218">
 <title>Samaritan</title>
 <release>2022</release>
 <poster>
-<image url='/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg'/>
+<image url="/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3353,11 +3353,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='630004' imdb='tt9742794'>
+<movie id="630004" imdb="tt9742794">
 <title>The Vault</title>
 <release>2021</release>
 <poster>
-<image url='/kWhXubAiIcHW0xn5GThflqaKZqh.jpg'/>
+<image url="/kWhXubAiIcHW0xn5GThflqaKZqh.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -3365,11 +3365,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='634649' imdb='tt10872600'>
+<movie id="634649" imdb="tt10872600">
 <title>Spider-Man No Way Home</title>
 <release>2021</release>
 <poster>
-<image url='/5weKu49pzJCt06OPpjvT80efnQj.jpg'/>
+<image url="/5weKu49pzJCt06OPpjvT80efnQj.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -3378,11 +3378,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='637649' imdb='tt11083552'>
+<movie id="637649" imdb="tt11083552">
 <title>Wrath Of Man</title>
 <release>2021</release>
 <poster>
-<image url='/M7SUK85sKjaStg4TKhlAVyGlz3.jpg'/>
+<image url="/M7SUK85sKjaStg4TKhlAVyGlz3.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3390,11 +3390,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='640146' imdb='tt10954600'>
+<movie id="640146" imdb="tt10954600">
 <title>Ant-Man And The Wasp Quantumania</title>
 <release>2023</release>
 <poster>
-<image url='/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg'/>
+<image url="/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -3403,11 +3403,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='646380' imdb='tt11286314'>
+<movie id="646380" imdb="tt11286314">
 <title>Dont Look Up</title>
 <release>2021</release>
 <poster>
-<image url='/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg'/>
+<image url="/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -3416,11 +3416,11 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='646389' imdb='tt5884796'>
+<movie id="646389" imdb="tt5884796">
 <title>Plane</title>
 <release>2023</release>
 <poster>
-<image url='/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg'/>
+<image url="/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -3428,11 +3428,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='647250' imdb='tt11040844'>
+<movie id="647250" imdb="tt11040844">
 <title>The Machine</title>
 <release>2023</release>
 <poster>
-<image url='/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg'/>
+<image url="/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3440,32 +3440,32 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='660982' imdb='tt11771594'>
+<movie id="660982" imdb="tt11771594">
 <title>American Pie Presents Girls Rules</title>
 <release>2020</release>
 <poster>
-<image url='/xqvX5A24dbIWaeYsMTxxKX5qOfz.jpg'/>
+<image url="/xqvX5A24dbIWaeYsMTxxKX5qOfz.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='666035' imdb='tt15791574'>
+<movie id="666035" imdb="tt15791574">
 <title>Wanted Man</title>
 <release>2024</release>
 <poster>
-<image url='/pmdgdb8biQLLzTjySZLPdK13KwM.jpg'/>
+<image url="/pmdgdb8biQLLzTjySZLPdK13KwM.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='667538' imdb='tt5090568'>
+<movie id="667538" imdb="tt5090568">
 <title>Transformers: Rise of The Beasts</title>
 <release>2023</release>
 <poster>
-<image url='/gPbM0MK8CP8A174rmUwGsADNYKD.jpg'/>
+<image url="/gPbM0MK8CP8A174rmUwGsADNYKD.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -3474,11 +3474,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='667739' imdb='tt11671006'>
+<movie id="667739" imdb="tt11671006">
 <title>The Man From Toronto</title>
 <release>2022</release>
 <poster>
-<image url='/uTCfTibqtk4f90cC59bLPMOmsfc.jpg'/>
+<image url="/uTCfTibqtk4f90cC59bLPMOmsfc.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -3486,11 +3486,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='675353' imdb='tt12412888'>
+<movie id="675353" imdb="tt12412888">
 <title>Sonic the Hedgehog 2</title>
 <release>2022</release>
 <poster>
-<image url='/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg'/>
+<image url="/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg"/>
 </poster>
 <categories>
 <category>Family</category>
@@ -3499,11 +3499,11 @@
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='696806' imdb='tt2463208'>
+<movie id="696806" imdb="tt2463208">
 <title>The Adam Project</title>
 <release>2022</release>
 <poster>
-<image url='/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg'/>
+<image url="/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -3511,22 +3511,22 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='697843' imdb='tt12263384'>
+<movie id="697843" imdb="tt12263384">
 <title>Extraction 2</title>
 <release>2023</release>
 <poster>
-<image url='/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg'/>
+<image url="/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='706503' imdb='tt10456740'>
+<movie id="706503" imdb="tt10456740">
 <title>Lost Bullet</title>
 <release>2020</release>
 <poster>
-<image url='/qnlChF8U4diiykXQYs1miigGy7t.jpg'/>
+<image url="/qnlChF8U4diiykXQYs1miigGy7t.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -3534,11 +3534,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='718930' imdb='tt12593682'>
+<movie id="718930" imdb="tt12593682">
 <title>Bullet Train</title>
 <release>2022</release>
 <poster>
-<image url='/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg'/>
+<image url="/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -3546,44 +3546,44 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='724209' imdb='tt13603966'>
+<movie id="724209" imdb="tt13603966">
 <title>Heart Of Stone</title>
 <release>2023</release>
 <poster>
-<image url='/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg'/>
+<image url="/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='725201' imdb='tt1649418'>
+<movie id="725201" imdb="tt1649418">
 <title>The Gray Man</title>
 <release>2022</release>
 <poster>
-<image url='/5Eom3JsXgQlCj6QIsGCwXkX7wyH.jpg'/>
+<image url="/5Eom3JsXgQlCj6QIsGCwXkX7wyH.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 <category>Action</category>
 </categories>
 </movie>
-<movie id='727745' imdb='tt12783454'>
+<movie id="727745" imdb="tt12783454">
 <title>The Kissing Booth 3</title>
 <release>2021</release>
 <poster>
-<image url='/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg'/>
+<image url="/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg"/>
 </poster>
 <categories>
 <category>Romance</category>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='739405' imdb='tt7985704'>
+<movie id="739405" imdb="tt7985704">
 <title>Operation Fortune Ruse De Guerre</title>
 <release>2023</release>
 <poster>
-<image url='/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg'/>
+<image url="/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -3591,11 +3591,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='739413' imdb='tt13029044'>
+<movie id="739413" imdb="tt13029044">
 <title>Mother Android</title>
 <release>2021</release>
 <poster>
-<image url='/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg'/>
+<image url="/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -3603,11 +3603,11 @@
 <category>Fiction</category>
 </categories>
 </movie>
-<movie id='739993' imdb='tt12141112'>
+<movie id="739993" imdb="tt12141112">
 <title>Metal Lords</title>
 <release>2022</release>
 <poster>
-<image url='/r97txZRmBb75SGsIAWqmplWJnO3.jpg'/>
+<image url="/r97txZRmBb75SGsIAWqmplWJnO3.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -3615,11 +3615,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='755566' imdb='tt13314558'>
+<movie id="755566" imdb="tt13314558">
 <title>Day Shift</title>
 <release>2022</release>
 <poster>
-<image url='/bI7lGR5HuYlENlp11brKUAaPHuO.jpg'/>
+<image url="/bI7lGR5HuYlENlp11brKUAaPHuO.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -3628,22 +3628,22 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='772272' imdb='tt16085592'>
+<movie id="772272" imdb="tt16085592">
 <title>Tall Girl 2</title>
 <release>2022</release>
 <poster>
-<image url='/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg'/>
+<image url="/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg"/>
 </poster>
 <categories>
 <category>Romance</category>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='775996' imdb='tt10451914'>
+<movie id="775996" imdb="tt10451914">
 <title>Outside The Wire</title>
 <release>2021</release>
 <poster>
-<image url='/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg'/>
+<image url="/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg"/>
 </poster>
 <categories>
 <category>Science</category>
@@ -3652,11 +3652,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='785457' imdb='tt11742798'>
+<movie id="785457" imdb="tt11742798">
 <title>Afterlife Of The Party</title>
 <release>2021</release>
 <poster>
-<image url='/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg'/>
+<image url="/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -3664,11 +3664,11 @@
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='791373' imdb='tt12361974'>
+<movie id="791373" imdb="tt12361974">
 <title>Zack Snyders Justice League</title>
 <release>2021</release>
 <poster>
-<image url='/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg'/>
+<image url="/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3676,11 +3676,11 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='796499' imdb='tt13024674'>
+<movie id="796499" imdb="tt13024674">
 <title>Army Of Thieves</title>
 <release>2021</release>
 <poster>
-<image url='/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg'/>
+<image url="/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg"/>
 </poster>
 <categories>
 <category>Crime</category>
@@ -3689,11 +3689,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='804150' imdb='tt14209916'>
+<movie id="804150" imdb="tt14209916">
 <title>Cocaine Bear</title>
 <release>2023</release>
 <poster>
-<image url='/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg'/>
+<image url="/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
@@ -3701,21 +3701,21 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='809140' imdb='tt14439896'>
+<movie id="809140" imdb="tt14439896">
 <title>Father Stu</title>
 <release>2022</release>
 <poster>
-<image url='/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg'/>
+<image url="/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
 </categories>
 </movie>
-<movie id='829280' imdb='tt14641788'>
+<movie id="829280" imdb="tt14641788">
 <title>Enola Holmes 2</title>
 <release>2022</release>
 <poster>
-<image url='/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg'/>
+<image url="/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg"/>
 </poster>
 <categories>
 <category>Adventure</category>
@@ -3723,11 +3723,11 @@
 <category>Mystery</category>
 </categories>
 </movie>
-<movie id='866398' imdb='tt15314262'>
+<movie id="866398" imdb="tt15314262">
 <title>The Beekeeper</title>
 <release>2024</release>
 <poster>
-<image url='/A7EByudX0eOzlkQ2FIbogzyazm2.jpg'/>
+<image url="/A7EByudX0eOzlkQ2FIbogzyazm2.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
@@ -3735,22 +3735,22 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='872585' imdb='tt15398776'>
+<movie id="872585" imdb="tt15398776">
 <title>Oppenheimer</title>
 <release>2023</release>
 <poster>
-<image url='/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg'/>
+<image url="/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"/>
 </poster>
 <categories>
 <category>Drama</category>
 <category>History</category>
 </categories>
 </movie>
-<movie id='882569' imdb='tt4873118'>
+<movie id="882569" imdb="tt4873118">
 <title>The Covenant</title>
 <release>2023</release>
 <poster>
-<image url='/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg'/>
+<image url="/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3758,32 +3758,32 @@
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='933419' imdb='tt15339570'>
+<movie id="933419" imdb="tt15339570">
 <title>Champions</title>
 <release>2023</release>
 <poster>
-<image url='/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg'/>
+<image url="/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
 </categories>
 </movie>
-<movie id='951491' imdb='tt21807222'>
+<movie id="951491" imdb="tt21807222">
 <title>Saw X</title>
 <release>2023</release>
 <poster>
-<image url='/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg'/>
+<image url="/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 <category>Horror</category>
 </categories>
 </movie>
-<movie id='955916' imdb='tt14371878'>
+<movie id="955916" imdb="tt14371878">
 <title>Lift</title>
 <release>2024</release>
 <poster>
-<image url='/46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg'/>
+<image url="/46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -3791,11 +3791,11 @@
 <category>Crime</category>
 </categories>
 </movie>
-<movie id='980489' imdb='tt4495098'>
+<movie id="980489" imdb="tt4495098">
 <title>Gran Turismo</title>
 <release>2023</release>
 <poster>
-<image url='/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg'/>
+<image url="/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
@@ -3803,21 +3803,21 @@
 <category>Adventure</category>
 </categories>
 </movie>
-<movie id='985939' imdb='tt15325794'>
+<movie id="985939" imdb="tt15325794">
 <title>Fall</title>
 <release>2022</release>
 <poster>
-<image url='/v28T5F1IygM8vXWZIycfNEm3xcL.jpg'/>
+<image url="/v28T5F1IygM8vXWZIycfNEm3xcL.jpg"/>
 </poster>
 <categories>
 <category>Thriller</category>
 </categories>
 </movie>
-<movie id='1013860' imdb='tt21094994'>
+<movie id="1013860" imdb="tt21094994">
 <title>R.I.P.D. 2 Rise Of The Damned</title>
 <release>2022</release>
 <poster>
-<image url='/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg'/>
+<image url="/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg"/>
 </poster>
 <categories>
 <category>Comedy</category>
@@ -3826,11 +3826,11 @@
 <category>Action</category>
 </categories>
 </movie>
-<movie id='1024627' imdb='tt14037272'>
+<movie id="1024627" imdb="tt14037272">
 <title>The System</title>
 <release>2022</release>
 <poster>
-<image url='/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg'/>
+<image url="/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg"/>
 </poster>
 <categories>
 <category>Action</category>
