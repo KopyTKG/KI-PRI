@@ -22,5 +22,4 @@
 	</div>
 	<img src="https://image.tmdb.org/t/p/original/{backdrop/image/@url}" alt="{title}" class="h-[45rem] absolute top-12 left-0 w-screen object-cover blur-lg -z-10 "/>
     </xsl:template>
-
 </xsl:stylesheet>
